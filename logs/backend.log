@@ -1,0 +1,1847 @@
+[2023-03-02 00:36:22,997][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 00:36:23,004][worker-0][ERROR] An error happened during initializing app components: No module named 'sqlalchemy'
+[2023-03-02 00:37:13,734][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 00:37:13,955][worker-0][ERROR] An error happened during initializing app components: No module named 'portal.models'
+[2023-03-02 00:37:25,837][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 00:37:26,302][worker-0][ERROR] An error happened during initializing app components: No module named 'portal.models'
+[2023-03-02 00:41:09,623][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 00:41:10,276][worker-0][INFO] Initialized application
+[2023-03-02 00:41:10,277][worker-0][INFO] Initialized Seeds
+[2023-03-02 00:41:10,277][worker-0][INFO] Initialized CORS
+[2023-03-02 00:41:10,277][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 05:55:32,497][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 05:55:32,989][worker-0][INFO] Initialized application
+[2023-03-02 05:55:32,990][worker-0][INFO] Initialized Seeds
+[2023-03-02 05:55:32,990][worker-0][INFO] Initialized CORS
+[2023-03-02 05:55:32,990][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 05:56:02,410][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 05:56:02,750][worker-0][INFO] Initialized application
+[2023-03-02 05:56:02,751][worker-0][INFO] Initialized Seeds
+[2023-03-02 05:56:02,751][worker-0][INFO] Initialized CORS
+[2023-03-02 05:56:02,751][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 06:02:11,893][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 06:02:12,245][worker-0][INFO] Initialized application
+[2023-03-02 06:02:12,245][worker-0][INFO] Initialized Seeds
+[2023-03-02 06:02:12,246][worker-0][INFO] Initialized CORS
+[2023-03-02 06:02:12,246][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 06:04:04,024][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 06:04:04,399][worker-0][INFO] Initialized application
+[2023-03-02 06:04:04,399][worker-0][INFO] Initialized Seeds
+[2023-03-02 06:04:04,399][worker-0][INFO] Initialized CORS
+[2023-03-02 06:04:04,399][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 06:19:13,276][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 06:19:13,719][worker-0][INFO] Initialized application
+[2023-03-02 06:19:13,719][worker-0][INFO] Initialized Seeds
+[2023-03-02 06:19:13,719][worker-0][INFO] Initialized CORS
+[2023-03-02 06:19:13,719][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 06:20:48,237][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 06:20:48,592][worker-0][INFO] Initialized application
+[2023-03-02 06:20:48,592][worker-0][INFO] Initialized Seeds
+[2023-03-02 06:20:48,593][worker-0][INFO] Initialized CORS
+[2023-03-02 06:20:48,593][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 10:40:32,059][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 10:40:32,395][worker-0][INFO] Initialized application
+[2023-03-02 10:40:32,396][worker-0][INFO] Initialized Seeds
+[2023-03-02 10:40:32,396][worker-0][INFO] Initialized CORS
+[2023-03-02 10:40:32,396][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 15:44:52,964][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 15:44:53,466][worker-0][ERROR] An error happened during initializing app components: View function mapping is overwriting an existing endpoint function: view.login
+[2023-03-02 15:45:06,019][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 15:45:06,327][worker-0][ERROR] An error happened during initializing app components: View function mapping is overwriting an existing endpoint function: view.login
+[2023-03-02 15:45:15,757][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 15:45:16,068][worker-0][INFO] Initialized application
+[2023-03-02 15:45:16,068][worker-0][INFO] Initialized Seeds
+[2023-03-02 15:45:16,068][worker-0][INFO] Initialized CORS
+[2023-03-02 15:45:16,068][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 15:46:49,573][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 15:46:49,918][worker-0][INFO] Initialized application
+[2023-03-02 15:46:49,918][worker-0][INFO] Initialized Seeds
+[2023-03-02 15:46:49,918][worker-0][INFO] Initialized CORS
+[2023-03-02 15:46:49,918][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 15:48:59,290][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 15:48:59,656][worker-0][INFO] Initialized application
+[2023-03-02 15:48:59,657][worker-0][INFO] Initialized Seeds
+[2023-03-02 15:48:59,657][worker-0][INFO] Initialized CORS
+[2023-03-02 15:48:59,657][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:41:30,201][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:41:30,632][worker-0][INFO] Initialized application
+[2023-03-02 16:41:30,633][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:41:30,633][worker-0][INFO] Initialized CORS
+[2023-03-02 16:41:30,633][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:42:36,365][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:42:36,681][worker-0][INFO] Initialized application
+[2023-03-02 16:42:36,681][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:42:36,682][worker-0][INFO] Initialized CORS
+[2023-03-02 16:42:36,682][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:43:47,655][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:43:47,980][worker-0][INFO] Initialized application
+[2023-03-02 16:43:47,980][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:43:47,980][worker-0][INFO] Initialized CORS
+[2023-03-02 16:43:47,980][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:44:59,730][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:45:00,059][worker-0][INFO] Initialized application
+[2023-03-02 16:45:00,060][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:45:00,060][worker-0][INFO] Initialized CORS
+[2023-03-02 16:45:00,060][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:50:21,552][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:50:21,553][worker-0][ERROR] An error happened during initializing app components: invalid syntax (views.py, line 4)
+[2023-03-02 16:51:51,786][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:51:52,135][worker-0][INFO] Initialized application
+[2023-03-02 16:51:52,135][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:51:52,135][worker-0][INFO] Initialized CORS
+[2023-03-02 16:51:52,135][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 16:55:57,081][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 16:55:57,390][worker-0][INFO] Initialized application
+[2023-03-02 16:55:57,391][worker-0][INFO] Initialized Seeds
+[2023-03-02 16:55:57,391][worker-0][INFO] Initialized CORS
+[2023-03-02 16:55:57,391][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:01:15,237][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:01:15,547][worker-0][INFO] Initialized application
+[2023-03-02 17:01:15,547][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:01:15,547][worker-0][INFO] Initialized CORS
+[2023-03-02 17:01:15,548][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:01:28,564][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:01:28,833][worker-0][INFO] Initialized application
+[2023-03-02 17:01:28,833][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:01:28,833][worker-0][INFO] Initialized CORS
+[2023-03-02 17:01:28,833][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:02:38,510][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:02:38,827][worker-0][INFO] Initialized application
+[2023-03-02 17:02:38,827][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:02:38,827][worker-0][INFO] Initialized CORS
+[2023-03-02 17:02:38,827][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:04:40,714][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:04:41,032][worker-0][INFO] Initialized application
+[2023-03-02 17:04:41,032][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:04:41,032][worker-0][INFO] Initialized CORS
+[2023-03-02 17:04:41,033][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:07:36,295][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:07:36,603][worker-0][INFO] Initialized application
+[2023-03-02 17:07:36,603][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:07:36,603][worker-0][INFO] Initialized CORS
+[2023-03-02 17:07:36,603][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:47:29,479][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:47:29,814][worker-0][INFO] Initialized application
+[2023-03-02 17:47:29,815][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:47:29,815][worker-0][INFO] Initialized CORS
+[2023-03-02 17:47:29,815][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:48:10,433][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:48:10,741][worker-0][INFO] Initialized application
+[2023-03-02 17:48:10,741][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:48:10,741][worker-0][INFO] Initialized CORS
+[2023-03-02 17:48:10,741][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:49:18,261][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:49:18,595][worker-0][INFO] Initialized application
+[2023-03-02 17:49:18,595][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:49:18,595][worker-0][INFO] Initialized CORS
+[2023-03-02 17:49:18,595][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:49:45,648][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:49:45,952][worker-0][INFO] Initialized application
+[2023-03-02 17:49:45,952][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:49:45,952][worker-0][INFO] Initialized CORS
+[2023-03-02 17:49:45,952][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:50:18,534][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:50:18,867][worker-0][INFO] Initialized application
+[2023-03-02 17:50:18,867][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:50:18,867][worker-0][INFO] Initialized CORS
+[2023-03-02 17:50:18,867][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:51:26,816][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:51:27,151][worker-0][INFO] Initialized application
+[2023-03-02 17:51:27,151][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:51:27,151][worker-0][INFO] Initialized CORS
+[2023-03-02 17:51:27,151][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:54:16,855][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:54:17,213][worker-0][INFO] Initialized application
+[2023-03-02 17:54:17,213][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:54:17,214][worker-0][INFO] Initialized CORS
+[2023-03-02 17:54:17,214][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:54:51,347][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:54:51,651][worker-0][INFO] Initialized application
+[2023-03-02 17:54:51,651][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:54:51,651][worker-0][INFO] Initialized CORS
+[2023-03-02 17:54:51,651][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:55:07,855][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:55:08,151][worker-0][INFO] Initialized application
+[2023-03-02 17:55:08,152][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:55:08,152][worker-0][INFO] Initialized CORS
+[2023-03-02 17:55:08,152][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 17:58:13,464][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 17:58:13,812][worker-0][INFO] Initialized application
+[2023-03-02 17:58:13,813][worker-0][INFO] Initialized Seeds
+[2023-03-02 17:58:13,813][worker-0][INFO] Initialized CORS
+[2023-03-02 17:58:13,813][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:00:25,449][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:00:25,763][worker-0][INFO] Initialized application
+[2023-03-02 18:00:25,763][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:00:25,763][worker-0][INFO] Initialized CORS
+[2023-03-02 18:00:25,763][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:01:40,426][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:01:40,752][worker-0][INFO] Initialized application
+[2023-03-02 18:01:40,753][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:01:40,753][worker-0][INFO] Initialized CORS
+[2023-03-02 18:01:40,753][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:02:16,199][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:02:16,476][worker-0][INFO] Initialized application
+[2023-03-02 18:02:16,476][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:02:16,476][worker-0][INFO] Initialized CORS
+[2023-03-02 18:02:16,476][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:03:12,586][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:03:12,862][worker-0][INFO] Initialized application
+[2023-03-02 18:03:12,862][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:03:12,862][worker-0][INFO] Initialized CORS
+[2023-03-02 18:03:12,862][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:04:17,704][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:04:18,042][worker-0][INFO] Initialized application
+[2023-03-02 18:04:18,042][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:04:18,043][worker-0][INFO] Initialized CORS
+[2023-03-02 18:04:18,043][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:04:31,816][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:04:32,085][worker-0][INFO] Initialized application
+[2023-03-02 18:04:32,085][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:04:32,085][worker-0][INFO] Initialized CORS
+[2023-03-02 18:04:32,085][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:05:15,408][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:05:15,681][worker-0][INFO] Initialized application
+[2023-03-02 18:05:15,682][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:05:15,682][worker-0][INFO] Initialized CORS
+[2023-03-02 18:05:15,682][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:07:30,498][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:07:30,845][worker-0][INFO] Initialized application
+[2023-03-02 18:07:30,845][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:07:30,845][worker-0][INFO] Initialized CORS
+[2023-03-02 18:07:30,845][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:11:28,947][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:11:29,286][worker-0][INFO] Initialized application
+[2023-03-02 18:11:29,286][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:11:29,286][worker-0][INFO] Initialized CORS
+[2023-03-02 18:11:29,286][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:13:42,298][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:13:42,647][worker-0][INFO] Initialized application
+[2023-03-02 18:13:42,647][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:13:42,647][worker-0][INFO] Initialized CORS
+[2023-03-02 18:13:42,647][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:14:32,970][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:14:33,244][worker-0][INFO] Initialized application
+[2023-03-02 18:14:33,244][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:14:33,244][worker-0][INFO] Initialized CORS
+[2023-03-02 18:14:33,244][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:20:05,612][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:20:05,943][worker-0][INFO] Initialized application
+[2023-03-02 18:20:05,943][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:20:05,944][worker-0][INFO] Initialized CORS
+[2023-03-02 18:20:05,944][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:21:15,900][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:21:16,210][worker-0][INFO] Initialized application
+[2023-03-02 18:21:16,211][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:21:16,211][worker-0][INFO] Initialized CORS
+[2023-03-02 18:21:16,211][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:22:04,788][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:22:05,092][worker-0][INFO] Initialized application
+[2023-03-02 18:22:05,092][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:22:05,092][worker-0][INFO] Initialized CORS
+[2023-03-02 18:22:05,092][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:22:31,596][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:22:31,868][worker-0][INFO] Initialized application
+[2023-03-02 18:22:31,868][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:22:31,869][worker-0][INFO] Initialized CORS
+[2023-03-02 18:22:31,869][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:25:06,113][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:25:06,386][worker-0][INFO] Initialized application
+[2023-03-02 18:25:06,386][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:25:06,386][worker-0][INFO] Initialized CORS
+[2023-03-02 18:25:06,386][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:25:30,084][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:25:30,373][worker-0][INFO] Initialized application
+[2023-03-02 18:25:30,374][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:25:30,374][worker-0][INFO] Initialized CORS
+[2023-03-02 18:25:30,374][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:26:19,150][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:26:19,423][worker-0][INFO] Initialized application
+[2023-03-02 18:26:19,424][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:26:19,424][worker-0][INFO] Initialized CORS
+[2023-03-02 18:26:19,424][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:26:34,251][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:26:34,524][worker-0][INFO] Initialized application
+[2023-03-02 18:26:34,525][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:26:34,525][worker-0][INFO] Initialized CORS
+[2023-03-02 18:26:34,525][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:26:53,603][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:26:53,877][worker-0][INFO] Initialized application
+[2023-03-02 18:26:53,877][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:26:53,877][worker-0][INFO] Initialized CORS
+[2023-03-02 18:26:53,877][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:44:26,588][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:44:26,928][worker-0][INFO] Initialized application
+[2023-03-02 18:44:26,928][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:44:26,928][worker-0][INFO] Initialized CORS
+[2023-03-02 18:44:26,929][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:46:55,208][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:46:55,549][worker-0][INFO] Initialized application
+[2023-03-02 18:46:55,549][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:46:55,549][worker-0][INFO] Initialized CORS
+[2023-03-02 18:46:55,549][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:48:24,734][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:48:25,049][worker-0][INFO] Initialized application
+[2023-03-02 18:48:25,049][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:48:25,050][worker-0][INFO] Initialized CORS
+[2023-03-02 18:48:25,050][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:48:37,222][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:48:37,505][worker-0][INFO] Initialized application
+[2023-03-02 18:48:37,505][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:48:37,505][worker-0][INFO] Initialized CORS
+[2023-03-02 18:48:37,505][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:50:22,110][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:50:22,389][worker-0][INFO] Initialized application
+[2023-03-02 18:50:22,389][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:50:22,389][worker-0][INFO] Initialized CORS
+[2023-03-02 18:50:22,389][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:53:43,555][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:53:43,887][worker-0][INFO] Initialized application
+[2023-03-02 18:53:43,888][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:53:43,888][worker-0][INFO] Initialized CORS
+[2023-03-02 18:53:43,888][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:54:24,963][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:54:25,269][worker-0][INFO] Initialized application
+[2023-03-02 18:54:25,269][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:54:25,269][worker-0][INFO] Initialized CORS
+[2023-03-02 18:54:25,269][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:55:15,851][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:55:16,180][worker-0][INFO] Initialized application
+[2023-03-02 18:55:16,180][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:55:16,180][worker-0][INFO] Initialized CORS
+[2023-03-02 18:55:16,181][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:55:47,469][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:55:47,774][worker-0][INFO] Initialized application
+[2023-03-02 18:55:47,774][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:55:47,774][worker-0][INFO] Initialized CORS
+[2023-03-02 18:55:47,774][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:57:34,485][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:57:34,812][worker-0][INFO] Initialized application
+[2023-03-02 18:57:34,812][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:57:34,813][worker-0][INFO] Initialized CORS
+[2023-03-02 18:57:34,813][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:58:12,716][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:58:12,992][worker-0][INFO] Initialized application
+[2023-03-02 18:58:12,992][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:58:12,992][worker-0][INFO] Initialized CORS
+[2023-03-02 18:58:12,992][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 18:58:54,158][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 18:58:54,438][worker-0][INFO] Initialized application
+[2023-03-02 18:58:54,438][worker-0][INFO] Initialized Seeds
+[2023-03-02 18:58:54,439][worker-0][INFO] Initialized CORS
+[2023-03-02 18:58:54,439][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:01:00,728][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:01:01,055][worker-0][INFO] Initialized application
+[2023-03-02 19:01:01,056][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:01:01,056][worker-0][INFO] Initialized CORS
+[2023-03-02 19:01:01,056][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:08:21,271][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:08:21,604][worker-0][INFO] Initialized application
+[2023-03-02 19:08:21,604][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:08:21,604][worker-0][INFO] Initialized CORS
+[2023-03-02 19:08:21,604][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:09:05,877][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:09:06,184][worker-0][INFO] Initialized application
+[2023-03-02 19:09:06,184][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:09:06,184][worker-0][INFO] Initialized CORS
+[2023-03-02 19:09:06,184][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:18:25,879][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:18:26,214][worker-0][INFO] Initialized application
+[2023-03-02 19:18:26,214][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:18:26,214][worker-0][INFO] Initialized CORS
+[2023-03-02 19:18:26,215][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:19:07,062][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:19:07,332][worker-0][INFO] Initialized application
+[2023-03-02 19:19:07,332][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:19:07,332][worker-0][INFO] Initialized CORS
+[2023-03-02 19:19:07,333][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 19:27:00,274][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 19:27:00,603][worker-0][INFO] Initialized application
+[2023-03-02 19:27:00,603][worker-0][INFO] Initialized Seeds
+[2023-03-02 19:27:00,603][worker-0][INFO] Initialized CORS
+[2023-03-02 19:27:00,603][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:09:17,851][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:09:18,190][worker-0][INFO] Initialized application
+[2023-03-02 20:09:18,191][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:09:18,191][worker-0][INFO] Initialized CORS
+[2023-03-02 20:09:18,191][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:12:07,167][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:12:07,525][worker-0][INFO] Initialized application
+[2023-03-02 20:12:07,525][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:12:07,525][worker-0][INFO] Initialized CORS
+[2023-03-02 20:12:07,525][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:12:40,936][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:12:41,246][worker-0][INFO] Initialized application
+[2023-03-02 20:12:41,246][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:12:41,247][worker-0][INFO] Initialized CORS
+[2023-03-02 20:12:41,247][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:13:17,703][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:13:18,042][worker-0][INFO] Initialized application
+[2023-03-02 20:13:18,042][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:13:18,042][worker-0][INFO] Initialized CORS
+[2023-03-02 20:13:18,042][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:23:27,426][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:23:27,430][worker-0][ERROR] An error happened during initializing app components: cannot import name 'get_final_data' from 'portal.application.sequence' (/Users/sandeepkumarrudhravaram/My_Projects/Mathematical_Calculation/portal/application/sequence/__init__.py)
+[2023-03-02 20:23:43,895][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:23:44,292][worker-0][INFO] Initialized application
+[2023-03-02 20:23:44,293][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:23:44,293][worker-0][INFO] Initialized CORS
+[2023-03-02 20:23:44,293][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:27:26,936][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:27:27,297][worker-0][INFO] Initialized application
+[2023-03-02 20:27:27,297][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:27:27,298][worker-0][INFO] Initialized CORS
+[2023-03-02 20:27:27,298][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:46:39,338][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:46:39,739][worker-0][INFO] Initialized application
+[2023-03-02 20:46:39,740][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:46:39,740][worker-0][INFO] Initialized CORS
+[2023-03-02 20:46:39,740][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:48:46,862][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:48:47,225][worker-0][INFO] Initialized application
+[2023-03-02 20:48:47,225][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:48:47,225][worker-0][INFO] Initialized CORS
+[2023-03-02 20:48:47,225][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:50:03,844][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:50:04,202][worker-0][INFO] Initialized application
+[2023-03-02 20:50:04,202][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:50:04,202][worker-0][INFO] Initialized CORS
+[2023-03-02 20:50:04,202][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:50:31,475][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:50:31,755][worker-0][INFO] Initialized application
+[2023-03-02 20:50:31,756][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:50:31,756][worker-0][INFO] Initialized CORS
+[2023-03-02 20:50:31,756][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:56:56,276][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:56:56,705][worker-0][INFO] Initialized application
+[2023-03-02 20:56:56,705][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:56:56,705][worker-0][INFO] Initialized CORS
+[2023-03-02 20:56:56,705][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 20:59:12,748][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 20:59:13,186][worker-0][INFO] Initialized application
+[2023-03-02 20:59:13,186][worker-0][INFO] Initialized Seeds
+[2023-03-02 20:59:13,186][worker-0][INFO] Initialized CORS
+[2023-03-02 20:59:13,187][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 21:03:00,442][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:03:00,846][worker-0][INFO] Initialized application
+[2023-03-02 21:03:00,846][worker-0][INFO] Initialized Seeds
+[2023-03-02 21:03:00,846][worker-0][INFO] Initialized CORS
+[2023-03-02 21:03:00,847][worker-0][INFO] App Initialization is finished successfully
+[2023-03-02 21:24:45,753][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:24:45,754][worker-0][ERROR] An error happened during initializing app components: No module named 'sqlalchemy'
+[2023-03-02 21:25:13,993][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:25:14,711][worker-0][ERROR] An error happened during initializing app components: No module named 'Crypto'
+[2023-03-02 21:25:55,579][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:25:56,069][worker-0][ERROR] An error happened during initializing app components: No module named 'Crypto.Util.Padding'
+[2023-03-02 21:26:38,300][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:26:38,491][worker-0][ERROR] An error happened during initializing app components: No module named 'openpyxl'
+[2023-03-02 21:26:57,862][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-02 21:26:58,155][worker-0][INFO] Initialized application
+[2023-03-02 21:26:58,155][worker-0][INFO] Initialized Seeds
+[2023-03-02 21:26:58,155][worker-0][INFO] Initialized CORS
+[2023-03-02 21:26:58,155][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 18:26:51,879][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 18:26:52,171][worker-0][INFO] Initialized application
+[2023-03-12 18:26:52,172][worker-0][INFO] Initialized Seeds
+[2023-03-12 18:26:52,172][worker-0][INFO] Initialized CORS
+[2023-03-12 18:26:52,172][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 19:40:46,411][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 19:40:46,741][worker-0][INFO] Initialized application
+[2023-03-12 19:40:46,742][worker-0][INFO] Initialized Seeds
+[2023-03-12 19:40:46,742][worker-0][INFO] Initialized CORS
+[2023-03-12 19:40:46,742][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 19:43:37,636][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 19:43:37,965][worker-0][INFO] Initialized application
+[2023-03-12 19:43:37,965][worker-0][INFO] Initialized Seeds
+[2023-03-12 19:43:37,965][worker-0][INFO] Initialized CORS
+[2023-03-12 19:43:37,965][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 19:44:31,087][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 19:44:31,402][worker-0][INFO] Initialized application
+[2023-03-12 19:44:31,402][worker-0][INFO] Initialized Seeds
+[2023-03-12 19:44:31,403][worker-0][INFO] Initialized CORS
+[2023-03-12 19:44:31,403][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 19:57:28,544][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 19:57:28,849][worker-0][INFO] Initialized application
+[2023-03-12 19:57:28,850][worker-0][INFO] Initialized Seeds
+[2023-03-12 19:57:28,850][worker-0][INFO] Initialized CORS
+[2023-03-12 19:57:28,850][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:01:04,683][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:01:05,006][worker-0][INFO] Initialized application
+[2023-03-12 20:01:05,006][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:01:05,006][worker-0][INFO] Initialized CORS
+[2023-03-12 20:01:05,006][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:08:19,023][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:08:19,354][worker-0][INFO] Initialized application
+[2023-03-12 20:08:19,354][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:08:19,354][worker-0][INFO] Initialized CORS
+[2023-03-12 20:08:19,354][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:10:46,487][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:10:46,793][worker-0][INFO] Initialized application
+[2023-03-12 20:10:46,793][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:10:46,793][worker-0][INFO] Initialized CORS
+[2023-03-12 20:10:46,793][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:11:36,767][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:11:37,067][worker-0][INFO] Initialized application
+[2023-03-12 20:11:37,068][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:11:37,068][worker-0][INFO] Initialized CORS
+[2023-03-12 20:11:37,068][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:13:34,309][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:13:34,645][worker-0][INFO] Initialized application
+[2023-03-12 20:13:34,646][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:13:34,646][worker-0][INFO] Initialized CORS
+[2023-03-12 20:13:34,646][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:15:26,536][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:15:26,871][worker-0][INFO] Initialized application
+[2023-03-12 20:15:26,872][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:15:26,872][worker-0][INFO] Initialized CORS
+[2023-03-12 20:15:26,872][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:16:20,436][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:16:20,761][worker-0][INFO] Initialized application
+[2023-03-12 20:16:20,762][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:16:20,762][worker-0][INFO] Initialized CORS
+[2023-03-12 20:16:20,762][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:16:54,350][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:16:54,686][worker-0][INFO] Initialized application
+[2023-03-12 20:16:54,686][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:16:54,687][worker-0][INFO] Initialized CORS
+[2023-03-12 20:16:54,687][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:19:10,765][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:19:11,103][worker-0][INFO] Initialized application
+[2023-03-12 20:19:11,103][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:19:11,103][worker-0][INFO] Initialized CORS
+[2023-03-12 20:19:11,103][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:23:47,837][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:23:48,183][worker-0][INFO] Initialized application
+[2023-03-12 20:23:48,184][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:23:48,184][worker-0][INFO] Initialized CORS
+[2023-03-12 20:23:48,184][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:29:24,690][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:29:25,001][worker-0][INFO] Initialized application
+[2023-03-12 20:29:25,001][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:29:25,001][worker-0][INFO] Initialized CORS
+[2023-03-12 20:29:25,001][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:42:32,013][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:42:32,330][worker-0][INFO] Initialized application
+[2023-03-12 20:42:32,331][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:42:32,331][worker-0][INFO] Initialized CORS
+[2023-03-12 20:42:32,331][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:43:00,958][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:43:01,256][worker-0][INFO] Initialized application
+[2023-03-12 20:43:01,256][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:43:01,256][worker-0][INFO] Initialized CORS
+[2023-03-12 20:43:01,256][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:56:55,878][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:56:56,199][worker-0][INFO] Initialized application
+[2023-03-12 20:56:56,199][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:56:56,199][worker-0][INFO] Initialized CORS
+[2023-03-12 20:56:56,199][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:57:49,875][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:57:50,190][worker-0][INFO] Initialized application
+[2023-03-12 20:57:50,190][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:57:50,190][worker-0][INFO] Initialized CORS
+[2023-03-12 20:57:50,191][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:57:57,232][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:57:57,527][worker-0][INFO] Initialized application
+[2023-03-12 20:57:57,528][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:57:57,528][worker-0][INFO] Initialized CORS
+[2023-03-12 20:57:57,528][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 20:58:21,871][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 20:58:22,165][worker-0][INFO] Initialized application
+[2023-03-12 20:58:22,166][worker-0][INFO] Initialized Seeds
+[2023-03-12 20:58:22,166][worker-0][INFO] Initialized CORS
+[2023-03-12 20:58:22,166][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 21:00:32,674][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 21:00:32,994][worker-0][INFO] Initialized application
+[2023-03-12 21:00:32,994][worker-0][INFO] Initialized Seeds
+[2023-03-12 21:00:32,994][worker-0][INFO] Initialized CORS
+[2023-03-12 21:00:32,994][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 21:00:50,409][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 21:00:50,700][worker-0][INFO] Initialized application
+[2023-03-12 21:00:50,700][worker-0][INFO] Initialized Seeds
+[2023-03-12 21:00:50,701][worker-0][INFO] Initialized CORS
+[2023-03-12 21:00:50,701][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 21:17:19,540][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 21:17:19,841][worker-0][INFO] Initialized application
+[2023-03-12 21:17:19,841][worker-0][INFO] Initialized Seeds
+[2023-03-12 21:17:19,841][worker-0][INFO] Initialized CORS
+[2023-03-12 21:17:19,841][worker-0][INFO] App Initialization is finished successfully
+[2023-03-12 21:18:37,064][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-12 21:18:37,381][worker-0][INFO] Initialized application
+[2023-03-12 21:18:37,381][worker-0][INFO] Initialized Seeds
+[2023-03-12 21:18:37,381][worker-0][INFO] Initialized CORS
+[2023-03-12 21:18:37,381][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 21:31:04,923][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 21:31:05,384][worker-0][INFO] Initialized application
+[2023-03-14 21:31:05,384][worker-0][INFO] Initialized Seeds
+[2023-03-14 21:31:05,384][worker-0][INFO] Initialized CORS
+[2023-03-14 21:31:05,384][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 21:35:04,144][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 21:35:04,437][worker-0][INFO] Initialized application
+[2023-03-14 21:35:04,438][worker-0][INFO] Initialized Seeds
+[2023-03-14 21:35:04,438][worker-0][INFO] Initialized CORS
+[2023-03-14 21:35:04,438][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 21:59:12,757][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 21:59:13,069][worker-0][INFO] Initialized application
+[2023-03-14 21:59:13,070][worker-0][INFO] Initialized Seeds
+[2023-03-14 21:59:13,070][worker-0][INFO] Initialized CORS
+[2023-03-14 21:59:13,070][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:00:35,244][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:00:35,558][worker-0][INFO] Initialized application
+[2023-03-14 22:00:35,558][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:00:35,558][worker-0][INFO] Initialized CORS
+[2023-03-14 22:00:35,558][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:02:30,933][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:02:31,244][worker-0][INFO] Initialized application
+[2023-03-14 22:02:31,245][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:02:31,245][worker-0][INFO] Initialized CORS
+[2023-03-14 22:02:31,245][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:03:36,019][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:03:36,308][worker-0][INFO] Initialized application
+[2023-03-14 22:03:36,309][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:03:36,309][worker-0][INFO] Initialized CORS
+[2023-03-14 22:03:36,309][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:04:31,340][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:04:31,656][worker-0][INFO] Initialized application
+[2023-03-14 22:04:31,657][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:04:31,657][worker-0][INFO] Initialized CORS
+[2023-03-14 22:04:31,657][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:05:12,815][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:05:13,109][worker-0][INFO] Initialized application
+[2023-03-14 22:05:13,109][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:05:13,109][worker-0][INFO] Initialized CORS
+[2023-03-14 22:05:13,109][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:06:50,901][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:06:51,226][worker-0][INFO] Initialized application
+[2023-03-14 22:06:51,226][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:06:51,227][worker-0][INFO] Initialized CORS
+[2023-03-14 22:06:51,227][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:11:31,614][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:11:31,924][worker-0][INFO] Initialized application
+[2023-03-14 22:11:31,925][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:11:31,925][worker-0][INFO] Initialized CORS
+[2023-03-14 22:11:31,925][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:15:21,971][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:15:22,297][worker-0][INFO] Initialized application
+[2023-03-14 22:15:22,297][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:15:22,297][worker-0][INFO] Initialized CORS
+[2023-03-14 22:15:22,297][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:16:53,222][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:16:53,545][worker-0][INFO] Initialized application
+[2023-03-14 22:16:53,546][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:16:53,546][worker-0][INFO] Initialized CORS
+[2023-03-14 22:16:53,546][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 22:19:41,604][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 22:19:41,915][worker-0][INFO] Initialized application
+[2023-03-14 22:19:41,916][worker-0][INFO] Initialized Seeds
+[2023-03-14 22:19:41,916][worker-0][INFO] Initialized CORS
+[2023-03-14 22:19:41,916][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:44:45,664][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:44:45,975][worker-0][INFO] Initialized application
+[2023-03-14 23:44:45,975][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:44:45,975][worker-0][INFO] Initialized CORS
+[2023-03-14 23:44:45,975][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:47:07,738][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:47:08,068][worker-0][INFO] Initialized application
+[2023-03-14 23:47:08,068][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:47:08,068][worker-0][INFO] Initialized CORS
+[2023-03-14 23:47:08,068][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:49:22,725][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:49:23,030][worker-0][INFO] Initialized application
+[2023-03-14 23:49:23,031][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:49:23,031][worker-0][INFO] Initialized CORS
+[2023-03-14 23:49:23,031][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:50:09,325][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:50:09,665][worker-0][INFO] Initialized application
+[2023-03-14 23:50:09,665][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:50:09,666][worker-0][INFO] Initialized CORS
+[2023-03-14 23:50:09,666][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:50:29,591][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:50:29,889][worker-0][INFO] Initialized application
+[2023-03-14 23:50:29,889][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:50:29,890][worker-0][INFO] Initialized CORS
+[2023-03-14 23:50:29,890][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:52:31,249][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:52:31,576][worker-0][INFO] Initialized application
+[2023-03-14 23:52:31,576][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:52:31,576][worker-0][INFO] Initialized CORS
+[2023-03-14 23:52:31,576][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:52:48,473][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:52:48,767][worker-0][INFO] Initialized application
+[2023-03-14 23:52:48,768][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:52:48,768][worker-0][INFO] Initialized CORS
+[2023-03-14 23:52:48,768][worker-0][INFO] App Initialization is finished successfully
+[2023-03-14 23:53:05,698][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-14 23:53:06,016][worker-0][INFO] Initialized application
+[2023-03-14 23:53:06,016][worker-0][INFO] Initialized Seeds
+[2023-03-14 23:53:06,016][worker-0][INFO] Initialized CORS
+[2023-03-14 23:53:06,016][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:01:24,805][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:01:25,119][worker-0][INFO] Initialized application
+[2023-03-15 00:01:25,119][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:01:25,119][worker-0][INFO] Initialized CORS
+[2023-03-15 00:01:25,119][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:08:03,166][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:08:03,483][worker-0][INFO] Initialized application
+[2023-03-15 00:08:03,484][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:08:03,484][worker-0][INFO] Initialized CORS
+[2023-03-15 00:08:03,484][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:10:41,288][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:10:41,613][worker-0][INFO] Initialized application
+[2023-03-15 00:10:41,613][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:10:41,613][worker-0][INFO] Initialized CORS
+[2023-03-15 00:10:41,613][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:15:36,653][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:15:36,982][worker-0][INFO] Initialized application
+[2023-03-15 00:15:36,983][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:15:36,983][worker-0][INFO] Initialized CORS
+[2023-03-15 00:15:36,983][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:16:42,093][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:16:42,384][worker-0][INFO] Initialized application
+[2023-03-15 00:16:42,384][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:16:42,384][worker-0][INFO] Initialized CORS
+[2023-03-15 00:16:42,384][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:20:49,690][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:20:50,003][worker-0][INFO] Initialized application
+[2023-03-15 00:20:50,003][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:20:50,004][worker-0][INFO] Initialized CORS
+[2023-03-15 00:20:50,004][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:21:35,062][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:21:35,369][worker-0][INFO] Initialized application
+[2023-03-15 00:21:35,369][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:21:35,370][worker-0][INFO] Initialized CORS
+[2023-03-15 00:21:35,370][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:22:11,918][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:22:12,211][worker-0][INFO] Initialized application
+[2023-03-15 00:22:12,212][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:22:12,212][worker-0][INFO] Initialized CORS
+[2023-03-15 00:22:12,212][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:23:26,388][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:23:26,706][worker-0][INFO] Initialized application
+[2023-03-15 00:23:26,706][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:23:26,707][worker-0][INFO] Initialized CORS
+[2023-03-15 00:23:26,707][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 00:24:06,575][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 00:24:06,881][worker-0][INFO] Initialized application
+[2023-03-15 00:24:06,881][worker-0][INFO] Initialized Seeds
+[2023-03-15 00:24:06,881][worker-0][INFO] Initialized CORS
+[2023-03-15 00:24:06,881][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:21:08,911][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:21:09,217][worker-0][INFO] Initialized application
+[2023-03-15 01:21:09,217][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:21:09,217][worker-0][INFO] Initialized CORS
+[2023-03-15 01:21:09,217][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:23:04,337][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:23:04,595][worker-0][INFO] Initialized application
+[2023-03-15 01:23:04,595][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:23:04,595][worker-0][INFO] Initialized CORS
+[2023-03-15 01:23:04,595][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:31:23,289][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:31:23,600][worker-0][INFO] Initialized application
+[2023-03-15 01:31:23,600][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:31:23,600][worker-0][INFO] Initialized CORS
+[2023-03-15 01:31:23,600][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:32:00,721][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:32:01,013][worker-0][INFO] Initialized application
+[2023-03-15 01:32:01,014][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:32:01,014][worker-0][INFO] Initialized CORS
+[2023-03-15 01:32:01,014][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:32:03,787][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:32:04,040][worker-0][INFO] Initialized application
+[2023-03-15 01:32:04,040][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:32:04,040][worker-0][INFO] Initialized CORS
+[2023-03-15 01:32:04,040][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:32:38,202][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:32:38,457][worker-0][INFO] Initialized application
+[2023-03-15 01:32:38,457][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:32:38,457][worker-0][INFO] Initialized CORS
+[2023-03-15 01:32:38,457][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:33:05,099][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:33:05,382][worker-0][INFO] Initialized application
+[2023-03-15 01:33:05,383][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:33:05,383][worker-0][INFO] Initialized CORS
+[2023-03-15 01:33:05,383][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:33:15,348][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:33:15,598][worker-0][INFO] Initialized application
+[2023-03-15 01:33:15,598][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:33:15,598][worker-0][INFO] Initialized CORS
+[2023-03-15 01:33:15,598][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:38:28,914][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:38:29,223][worker-0][INFO] Initialized application
+[2023-03-15 01:38:29,223][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:38:29,223][worker-0][INFO] Initialized CORS
+[2023-03-15 01:38:29,223][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:39:25,863][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:39:26,149][worker-0][INFO] Initialized application
+[2023-03-15 01:39:26,150][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:39:26,150][worker-0][INFO] Initialized CORS
+[2023-03-15 01:39:26,150][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:47:23,273][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:47:23,572][worker-0][INFO] Initialized application
+[2023-03-15 01:47:23,572][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:47:23,572][worker-0][INFO] Initialized CORS
+[2023-03-15 01:47:23,572][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:47:29,875][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:47:30,132][worker-0][INFO] Initialized application
+[2023-03-15 01:47:30,133][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:47:30,133][worker-0][INFO] Initialized CORS
+[2023-03-15 01:47:30,133][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:48:23,248][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:48:23,540][worker-0][INFO] Initialized application
+[2023-03-15 01:48:23,541][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:48:23,541][worker-0][INFO] Initialized CORS
+[2023-03-15 01:48:23,541][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 01:48:57,874][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 01:48:58,169][worker-0][INFO] Initialized application
+[2023-03-15 01:48:58,170][worker-0][INFO] Initialized Seeds
+[2023-03-15 01:48:58,170][worker-0][INFO] Initialized CORS
+[2023-03-15 01:48:58,170][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:17:39,393][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:17:39,686][worker-0][INFO] Initialized application
+[2023-03-15 02:17:39,686][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:17:39,686][worker-0][INFO] Initialized CORS
+[2023-03-15 02:17:39,686][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:18:35,856][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:18:36,150][worker-0][INFO] Initialized application
+[2023-03-15 02:18:36,150][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:18:36,150][worker-0][INFO] Initialized CORS
+[2023-03-15 02:18:36,150][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:20:10,426][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:20:10,720][worker-0][INFO] Initialized application
+[2023-03-15 02:20:10,720][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:20:10,721][worker-0][INFO] Initialized CORS
+[2023-03-15 02:20:10,721][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:21:06,079][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:21:06,382][worker-0][INFO] Initialized application
+[2023-03-15 02:21:06,382][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:21:06,383][worker-0][INFO] Initialized CORS
+[2023-03-15 02:21:06,383][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:21:44,607][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:21:44,855][worker-0][INFO] Initialized application
+[2023-03-15 02:21:44,855][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:21:44,855][worker-0][INFO] Initialized CORS
+[2023-03-15 02:21:44,855][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:24:04,346][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:24:04,651][worker-0][INFO] Initialized application
+[2023-03-15 02:24:04,651][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:24:04,651][worker-0][INFO] Initialized CORS
+[2023-03-15 02:24:04,652][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:33:56,556][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:33:56,864][worker-0][INFO] Initialized application
+[2023-03-15 02:33:56,865][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:33:56,865][worker-0][INFO] Initialized CORS
+[2023-03-15 02:33:56,865][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:37:36,183][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:37:36,497][worker-0][INFO] Initialized application
+[2023-03-15 02:37:36,497][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:37:36,497][worker-0][INFO] Initialized CORS
+[2023-03-15 02:37:36,497][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:47:25,167][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:47:25,473][worker-0][INFO] Initialized application
+[2023-03-15 02:47:25,474][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:47:25,474][worker-0][INFO] Initialized CORS
+[2023-03-15 02:47:25,474][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:47:55,747][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:47:56,040][worker-0][INFO] Initialized application
+[2023-03-15 02:47:56,040][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:47:56,040][worker-0][INFO] Initialized CORS
+[2023-03-15 02:47:56,040][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:48:26,756][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:48:27,018][worker-0][INFO] Initialized application
+[2023-03-15 02:48:27,019][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:48:27,019][worker-0][INFO] Initialized CORS
+[2023-03-15 02:48:27,019][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:49:48,899][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:49:49,202][worker-0][INFO] Initialized application
+[2023-03-15 02:49:49,203][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:49:49,203][worker-0][INFO] Initialized CORS
+[2023-03-15 02:49:49,203][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:50:09,844][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:50:10,138][worker-0][INFO] Initialized application
+[2023-03-15 02:50:10,138][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:50:10,139][worker-0][INFO] Initialized CORS
+[2023-03-15 02:50:10,139][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 02:56:46,143][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 02:56:46,452][worker-0][INFO] Initialized application
+[2023-03-15 02:56:46,453][worker-0][INFO] Initialized Seeds
+[2023-03-15 02:56:46,453][worker-0][INFO] Initialized CORS
+[2023-03-15 02:56:46,453][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:01:14,279][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:01:14,576][worker-0][INFO] Initialized application
+[2023-03-15 03:01:14,576][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:01:14,576][worker-0][INFO] Initialized CORS
+[2023-03-15 03:01:14,576][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:02:13,959][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:02:14,248][worker-0][INFO] Initialized application
+[2023-03-15 03:02:14,248][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:02:14,249][worker-0][INFO] Initialized CORS
+[2023-03-15 03:02:14,249][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:08:33,978][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:08:34,282][worker-0][INFO] Initialized application
+[2023-03-15 03:08:34,283][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:08:34,283][worker-0][INFO] Initialized CORS
+[2023-03-15 03:08:34,283][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:16:43,860][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:16:44,146][worker-0][INFO] Initialized application
+[2023-03-15 03:16:44,147][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:16:44,147][worker-0][INFO] Initialized CORS
+[2023-03-15 03:16:44,147][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:17:51,351][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:17:51,636][worker-0][INFO] Initialized application
+[2023-03-15 03:17:51,636][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:17:51,636][worker-0][INFO] Initialized CORS
+[2023-03-15 03:17:51,636][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:18:08,610][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:18:08,867][worker-0][INFO] Initialized application
+[2023-03-15 03:18:08,868][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:18:08,868][worker-0][INFO] Initialized CORS
+[2023-03-15 03:18:08,868][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:18:28,640][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:18:28,901][worker-0][INFO] Initialized application
+[2023-03-15 03:18:28,901][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:18:28,902][worker-0][INFO] Initialized CORS
+[2023-03-15 03:18:28,902][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:21:29,070][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:21:29,374][worker-0][INFO] Initialized application
+[2023-03-15 03:21:29,374][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:21:29,375][worker-0][INFO] Initialized CORS
+[2023-03-15 03:21:29,375][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:24:11,575][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:24:11,886][worker-0][INFO] Initialized application
+[2023-03-15 03:24:11,886][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:24:11,886][worker-0][INFO] Initialized CORS
+[2023-03-15 03:24:11,886][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:29:52,991][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:29:53,318][worker-0][INFO] Initialized application
+[2023-03-15 03:29:53,318][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:29:53,318][worker-0][INFO] Initialized CORS
+[2023-03-15 03:29:53,318][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:30:37,297][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:30:37,596][worker-0][INFO] Initialized application
+[2023-03-15 03:30:37,596][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:30:37,596][worker-0][INFO] Initialized CORS
+[2023-03-15 03:30:37,596][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:31:21,577][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:31:21,903][worker-0][INFO] Initialized application
+[2023-03-15 03:31:21,903][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:31:21,903][worker-0][INFO] Initialized CORS
+[2023-03-15 03:31:21,903][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:31:50,492][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:31:50,787][worker-0][INFO] Initialized application
+[2023-03-15 03:31:50,787][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:31:50,787][worker-0][INFO] Initialized CORS
+[2023-03-15 03:31:50,787][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:43:07,845][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:43:08,144][worker-0][INFO] Initialized application
+[2023-03-15 03:43:08,144][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:43:08,144][worker-0][INFO] Initialized CORS
+[2023-03-15 03:43:08,144][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 03:43:51,172][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 03:43:51,473][worker-0][INFO] Initialized application
+[2023-03-15 03:43:51,473][worker-0][INFO] Initialized Seeds
+[2023-03-15 03:43:51,473][worker-0][INFO] Initialized CORS
+[2023-03-15 03:43:51,474][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 04:04:49,407][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 04:04:49,719][worker-0][INFO] Initialized application
+[2023-03-15 04:04:49,719][worker-0][INFO] Initialized Seeds
+[2023-03-15 04:04:49,720][worker-0][INFO] Initialized CORS
+[2023-03-15 04:04:49,720][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 04:08:51,561][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 04:08:51,865][worker-0][INFO] Initialized application
+[2023-03-15 04:08:51,865][worker-0][INFO] Initialized Seeds
+[2023-03-15 04:08:51,865][worker-0][INFO] Initialized CORS
+[2023-03-15 04:08:51,865][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 04:09:10,441][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 04:09:10,778][worker-0][INFO] Initialized application
+[2023-03-15 04:09:10,778][worker-0][INFO] Initialized Seeds
+[2023-03-15 04:09:10,778][worker-0][INFO] Initialized CORS
+[2023-03-15 04:09:10,778][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 04:14:19,727][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 04:14:20,032][worker-0][INFO] Initialized application
+[2023-03-15 04:14:20,033][worker-0][INFO] Initialized Seeds
+[2023-03-15 04:14:20,033][worker-0][INFO] Initialized CORS
+[2023-03-15 04:14:20,033][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 12:35:03,000][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 12:35:03,313][worker-0][INFO] Initialized application
+[2023-03-15 12:35:03,313][worker-0][INFO] Initialized Seeds
+[2023-03-15 12:35:03,314][worker-0][INFO] Initialized CORS
+[2023-03-15 12:35:03,314][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 12:49:23,179][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 12:49:23,485][worker-0][INFO] Initialized application
+[2023-03-15 12:49:23,486][worker-0][INFO] Initialized Seeds
+[2023-03-15 12:49:23,486][worker-0][INFO] Initialized CORS
+[2023-03-15 12:49:23,486][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 21:54:07,504][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 21:54:07,931][worker-0][INFO] Initialized application
+[2023-03-15 21:54:07,932][worker-0][INFO] Initialized Seeds
+[2023-03-15 21:54:07,932][worker-0][INFO] Initialized CORS
+[2023-03-15 21:54:07,932][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 21:58:56,212][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 21:58:56,514][worker-0][INFO] Initialized application
+[2023-03-15 21:58:56,515][worker-0][INFO] Initialized Seeds
+[2023-03-15 21:58:56,515][worker-0][INFO] Initialized CORS
+[2023-03-15 21:58:56,515][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 21:59:31,453][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 21:59:31,735][worker-0][INFO] Initialized application
+[2023-03-15 21:59:31,736][worker-0][INFO] Initialized Seeds
+[2023-03-15 21:59:31,736][worker-0][INFO] Initialized CORS
+[2023-03-15 21:59:31,736][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 22:03:33,238][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 22:03:33,617][worker-0][INFO] Initialized application
+[2023-03-15 22:03:33,617][worker-0][INFO] Initialized Seeds
+[2023-03-15 22:03:33,617][worker-0][INFO] Initialized CORS
+[2023-03-15 22:03:33,618][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 22:06:13,223][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 22:06:13,506][worker-0][INFO] Initialized application
+[2023-03-15 22:06:13,506][worker-0][INFO] Initialized Seeds
+[2023-03-15 22:06:13,506][worker-0][INFO] Initialized CORS
+[2023-03-15 22:06:13,506][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 22:07:31,485][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 22:07:31,764][worker-0][INFO] Initialized application
+[2023-03-15 22:07:31,764][worker-0][INFO] Initialized Seeds
+[2023-03-15 22:07:31,765][worker-0][INFO] Initialized CORS
+[2023-03-15 22:07:31,765][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 22:36:03,182][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 22:36:03,494][worker-0][INFO] Initialized application
+[2023-03-15 22:36:03,494][worker-0][INFO] Initialized Seeds
+[2023-03-15 22:36:03,494][worker-0][INFO] Initialized CORS
+[2023-03-15 22:36:03,494][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 22:54:21,702][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 22:54:22,009][worker-0][INFO] Initialized application
+[2023-03-15 22:54:22,010][worker-0][INFO] Initialized Seeds
+[2023-03-15 22:54:22,010][worker-0][INFO] Initialized CORS
+[2023-03-15 22:54:22,010][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 23:32:35,596][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 23:32:35,908][worker-0][INFO] Initialized application
+[2023-03-15 23:32:35,908][worker-0][INFO] Initialized Seeds
+[2023-03-15 23:32:35,908][worker-0][INFO] Initialized CORS
+[2023-03-15 23:32:35,908][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 23:38:32,738][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 23:38:33,082][worker-0][INFO] Initialized application
+[2023-03-15 23:38:33,082][worker-0][INFO] Initialized Seeds
+[2023-03-15 23:38:33,083][worker-0][INFO] Initialized CORS
+[2023-03-15 23:38:33,083][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 23:43:33,012][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 23:43:33,304][worker-0][INFO] Initialized application
+[2023-03-15 23:43:33,304][worker-0][INFO] Initialized Seeds
+[2023-03-15 23:43:33,304][worker-0][INFO] Initialized CORS
+[2023-03-15 23:43:33,304][worker-0][INFO] App Initialization is finished successfully
+[2023-03-15 23:46:58,183][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-15 23:46:58,492][worker-0][INFO] Initialized application
+[2023-03-15 23:46:58,492][worker-0][INFO] Initialized Seeds
+[2023-03-15 23:46:58,492][worker-0][INFO] Initialized CORS
+[2023-03-15 23:46:58,492][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 00:22:59,377][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 00:22:59,721][worker-0][INFO] Initialized application
+[2023-03-16 00:22:59,722][worker-0][INFO] Initialized Seeds
+[2023-03-16 00:22:59,722][worker-0][INFO] Initialized CORS
+[2023-03-16 00:22:59,722][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 00:34:29,303][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 00:34:29,662][worker-0][INFO] Initialized application
+[2023-03-16 00:34:29,663][worker-0][INFO] Initialized Seeds
+[2023-03-16 00:34:29,663][worker-0][INFO] Initialized CORS
+[2023-03-16 00:34:29,663][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:02:59,614][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:03:00,015][worker-0][INFO] Initialized application
+[2023-03-16 02:03:00,016][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:03:00,016][worker-0][INFO] Initialized CORS
+[2023-03-16 02:03:00,016][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:06:46,298][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:06:46,639][worker-0][INFO] Initialized application
+[2023-03-16 02:06:46,640][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:06:46,640][worker-0][INFO] Initialized CORS
+[2023-03-16 02:06:46,640][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:13:59,184][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:13:59,560][worker-0][INFO] Initialized application
+[2023-03-16 02:13:59,560][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:13:59,560][worker-0][INFO] Initialized CORS
+[2023-03-16 02:13:59,560][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:14:53,825][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:14:54,161][worker-0][INFO] Initialized application
+[2023-03-16 02:14:54,161][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:14:54,161][worker-0][INFO] Initialized CORS
+[2023-03-16 02:14:54,161][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:15:59,753][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:16:00,062][worker-0][INFO] Initialized application
+[2023-03-16 02:16:00,062][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:16:00,063][worker-0][INFO] Initialized CORS
+[2023-03-16 02:16:00,063][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:16:31,864][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:16:32,153][worker-0][INFO] Initialized application
+[2023-03-16 02:16:32,153][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:16:32,153][worker-0][INFO] Initialized CORS
+[2023-03-16 02:16:32,153][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:17:37,111][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:17:37,403][worker-0][INFO] Initialized application
+[2023-03-16 02:17:37,403][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:17:37,404][worker-0][INFO] Initialized CORS
+[2023-03-16 02:17:37,404][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:20:06,866][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:20:07,199][worker-0][INFO] Initialized application
+[2023-03-16 02:20:07,199][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:20:07,200][worker-0][INFO] Initialized CORS
+[2023-03-16 02:20:07,200][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:20:30,115][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:20:30,446][worker-0][INFO] Initialized application
+[2023-03-16 02:20:30,447][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:20:30,447][worker-0][INFO] Initialized CORS
+[2023-03-16 02:20:30,447][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:20:47,384][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:20:47,673][worker-0][INFO] Initialized application
+[2023-03-16 02:20:47,674][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:20:47,674][worker-0][INFO] Initialized CORS
+[2023-03-16 02:20:47,674][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:24:30,924][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:24:31,280][worker-0][INFO] Initialized application
+[2023-03-16 02:24:31,281][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:24:31,281][worker-0][INFO] Initialized CORS
+[2023-03-16 02:24:31,281][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:25:07,500][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:25:07,826][worker-0][INFO] Initialized application
+[2023-03-16 02:25:07,826][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:25:07,827][worker-0][INFO] Initialized CORS
+[2023-03-16 02:25:07,827][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:25:35,048][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:25:35,345][worker-0][INFO] Initialized application
+[2023-03-16 02:25:35,345][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:25:35,346][worker-0][INFO] Initialized CORS
+[2023-03-16 02:25:35,346][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:26:48,789][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:26:49,084][worker-0][INFO] Initialized application
+[2023-03-16 02:26:49,084][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:26:49,085][worker-0][INFO] Initialized CORS
+[2023-03-16 02:26:49,085][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:27:49,311][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:27:49,612][worker-0][INFO] Initialized application
+[2023-03-16 02:27:49,612][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:27:49,612][worker-0][INFO] Initialized CORS
+[2023-03-16 02:27:49,612][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:31:50,925][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:31:51,267][worker-0][INFO] Initialized application
+[2023-03-16 02:31:51,267][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:31:51,267][worker-0][INFO] Initialized CORS
+[2023-03-16 02:31:51,267][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:32:35,272][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:32:35,602][worker-0][INFO] Initialized application
+[2023-03-16 02:32:35,603][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:32:35,603][worker-0][INFO] Initialized CORS
+[2023-03-16 02:32:35,603][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:33:02,565][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:33:02,929][worker-0][INFO] Initialized application
+[2023-03-16 02:33:02,929][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:33:02,930][worker-0][INFO] Initialized CORS
+[2023-03-16 02:33:02,930][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:34:52,639][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:34:52,977][worker-0][INFO] Initialized application
+[2023-03-16 02:34:52,978][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:34:52,978][worker-0][INFO] Initialized CORS
+[2023-03-16 02:34:52,978][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:37:13,291][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:37:13,660][worker-0][INFO] Initialized application
+[2023-03-16 02:37:13,662][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:37:13,662][worker-0][INFO] Initialized CORS
+[2023-03-16 02:37:13,662][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:39:38,318][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:39:38,681][worker-0][INFO] Initialized application
+[2023-03-16 02:39:38,682][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:39:38,682][worker-0][INFO] Initialized CORS
+[2023-03-16 02:39:38,682][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:45:22,010][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:45:22,360][worker-0][INFO] Initialized application
+[2023-03-16 02:45:22,360][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:45:22,361][worker-0][INFO] Initialized CORS
+[2023-03-16 02:45:22,361][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:45:45,070][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:45:45,404][worker-0][INFO] Initialized application
+[2023-03-16 02:45:45,404][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:45:45,404][worker-0][INFO] Initialized CORS
+[2023-03-16 02:45:45,404][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:46:31,243][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:46:31,532][worker-0][INFO] Initialized application
+[2023-03-16 02:46:31,533][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:46:31,533][worker-0][INFO] Initialized CORS
+[2023-03-16 02:46:31,533][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:46:51,956][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:46:52,260][worker-0][INFO] Initialized application
+[2023-03-16 02:46:52,261][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:46:52,261][worker-0][INFO] Initialized CORS
+[2023-03-16 02:46:52,261][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:47:54,337][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:47:54,636][worker-0][INFO] Initialized application
+[2023-03-16 02:47:54,637][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:47:54,637][worker-0][INFO] Initialized CORS
+[2023-03-16 02:47:54,637][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:51:11,399][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:51:11,756][worker-0][INFO] Initialized application
+[2023-03-16 02:51:11,756][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:51:11,756][worker-0][INFO] Initialized CORS
+[2023-03-16 02:51:11,756][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:51:56,317][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:51:56,614][worker-0][INFO] Initialized application
+[2023-03-16 02:51:56,615][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:51:56,615][worker-0][INFO] Initialized CORS
+[2023-03-16 02:51:56,615][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:54:04,178][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:54:04,503][worker-0][INFO] Initialized application
+[2023-03-16 02:54:04,503][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:54:04,503][worker-0][INFO] Initialized CORS
+[2023-03-16 02:54:04,503][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:56:02,680][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:56:03,017][worker-0][INFO] Initialized application
+[2023-03-16 02:56:03,017][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:56:03,017][worker-0][INFO] Initialized CORS
+[2023-03-16 02:56:03,017][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:56:06,825][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:56:07,112][worker-0][INFO] Initialized application
+[2023-03-16 02:56:07,112][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:56:07,113][worker-0][INFO] Initialized CORS
+[2023-03-16 02:56:07,113][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:56:20,615][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:56:20,916][worker-0][INFO] Initialized application
+[2023-03-16 02:56:20,916][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:56:20,916][worker-0][INFO] Initialized CORS
+[2023-03-16 02:56:20,916][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:57:39,746][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:57:40,072][worker-0][INFO] Initialized application
+[2023-03-16 02:57:40,072][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:57:40,072][worker-0][INFO] Initialized CORS
+[2023-03-16 02:57:40,072][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 02:59:45,574][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 02:59:45,866][worker-0][INFO] Initialized application
+[2023-03-16 02:59:45,866][worker-0][INFO] Initialized Seeds
+[2023-03-16 02:59:45,866][worker-0][INFO] Initialized CORS
+[2023-03-16 02:59:45,867][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:00:01,360][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:00:01,647][worker-0][INFO] Initialized application
+[2023-03-16 03:00:01,647][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:00:01,647][worker-0][INFO] Initialized CORS
+[2023-03-16 03:00:01,647][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:00:14,334][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:00:14,636][worker-0][INFO] Initialized application
+[2023-03-16 03:00:14,637][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:00:14,637][worker-0][INFO] Initialized CORS
+[2023-03-16 03:00:14,637][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:01:52,375][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:01:52,676][worker-0][INFO] Initialized application
+[2023-03-16 03:01:52,676][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:01:52,676][worker-0][INFO] Initialized CORS
+[2023-03-16 03:01:52,676][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:02:17,439][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:02:17,737][worker-0][INFO] Initialized application
+[2023-03-16 03:02:17,738][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:02:17,738][worker-0][INFO] Initialized CORS
+[2023-03-16 03:02:17,738][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:03:17,229][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:03:17,520][worker-0][INFO] Initialized application
+[2023-03-16 03:03:17,520][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:03:17,520][worker-0][INFO] Initialized CORS
+[2023-03-16 03:03:17,520][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:04:10,186][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:04:10,477][worker-0][INFO] Initialized application
+[2023-03-16 03:04:10,477][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:04:10,477][worker-0][INFO] Initialized CORS
+[2023-03-16 03:04:10,477][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:05:28,568][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:05:28,862][worker-0][INFO] Initialized application
+[2023-03-16 03:05:28,862][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:05:28,862][worker-0][INFO] Initialized CORS
+[2023-03-16 03:05:28,862][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:05:42,742][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:05:43,029][worker-0][INFO] Initialized application
+[2023-03-16 03:05:43,029][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:05:43,029][worker-0][INFO] Initialized CORS
+[2023-03-16 03:05:43,029][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:06:00,239][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:06:00,538][worker-0][INFO] Initialized application
+[2023-03-16 03:06:00,538][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:06:00,538][worker-0][INFO] Initialized CORS
+[2023-03-16 03:06:00,538][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:06:13,211][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:06:13,507][worker-0][INFO] Initialized application
+[2023-03-16 03:06:13,507][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:06:13,507][worker-0][INFO] Initialized CORS
+[2023-03-16 03:06:13,508][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:07:41,385][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:07:41,679][worker-0][INFO] Initialized application
+[2023-03-16 03:07:41,679][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:07:41,680][worker-0][INFO] Initialized CORS
+[2023-03-16 03:07:41,680][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:08:01,388][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:08:01,690][worker-0][INFO] Initialized application
+[2023-03-16 03:08:01,690][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:08:01,690][worker-0][INFO] Initialized CORS
+[2023-03-16 03:08:01,690][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:08:47,806][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:08:48,101][worker-0][INFO] Initialized application
+[2023-03-16 03:08:48,101][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:08:48,101][worker-0][INFO] Initialized CORS
+[2023-03-16 03:08:48,101][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:09:25,836][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:09:26,227][worker-0][INFO] Initialized application
+[2023-03-16 03:09:26,227][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:09:26,227][worker-0][INFO] Initialized CORS
+[2023-03-16 03:09:26,227][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:10:47,518][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:10:47,885][worker-0][INFO] Initialized application
+[2023-03-16 03:10:47,885][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:10:47,886][worker-0][INFO] Initialized CORS
+[2023-03-16 03:10:47,886][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:11:06,121][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:11:06,452][worker-0][INFO] Initialized application
+[2023-03-16 03:11:06,453][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:11:06,453][worker-0][INFO] Initialized CORS
+[2023-03-16 03:11:06,453][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:12:35,479][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:12:35,830][worker-0][INFO] Initialized application
+[2023-03-16 03:12:35,830][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:12:35,831][worker-0][INFO] Initialized CORS
+[2023-03-16 03:12:35,831][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:13:09,517][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:13:09,843][worker-0][INFO] Initialized application
+[2023-03-16 03:13:09,843][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:13:09,843][worker-0][INFO] Initialized CORS
+[2023-03-16 03:13:09,843][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:16:35,551][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:16:35,898][worker-0][INFO] Initialized application
+[2023-03-16 03:16:35,899][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:16:35,899][worker-0][INFO] Initialized CORS
+[2023-03-16 03:16:35,899][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:18:18,464][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:18:18,775][worker-0][INFO] Initialized application
+[2023-03-16 03:18:18,775][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:18:18,776][worker-0][INFO] Initialized CORS
+[2023-03-16 03:18:18,776][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:19:21,273][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:19:21,614][worker-0][INFO] Initialized application
+[2023-03-16 03:19:21,614][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:19:21,614][worker-0][INFO] Initialized CORS
+[2023-03-16 03:19:21,614][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:35:17,363][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:35:17,721][worker-0][INFO] Initialized application
+[2023-03-16 03:35:17,721][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:35:17,721][worker-0][INFO] Initialized CORS
+[2023-03-16 03:35:17,721][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:40:05,483][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:40:05,865][worker-0][INFO] Initialized application
+[2023-03-16 03:40:05,866][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:40:05,866][worker-0][INFO] Initialized CORS
+[2023-03-16 03:40:05,866][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:42:28,257][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:42:28,616][worker-0][INFO] Initialized application
+[2023-03-16 03:42:28,617][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:42:28,617][worker-0][INFO] Initialized CORS
+[2023-03-16 03:42:28,617][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:54:18,808][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:54:19,235][worker-0][INFO] Initialized application
+[2023-03-16 03:54:19,236][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:54:19,236][worker-0][INFO] Initialized CORS
+[2023-03-16 03:54:19,236][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:55:25,358][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:55:25,697][worker-0][INFO] Initialized application
+[2023-03-16 03:55:25,698][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:55:25,698][worker-0][INFO] Initialized CORS
+[2023-03-16 03:55:25,698][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:56:57,734][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:56:58,122][worker-0][INFO] Initialized application
+[2023-03-16 03:56:58,122][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:56:58,123][worker-0][INFO] Initialized CORS
+[2023-03-16 03:56:58,123][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:57:45,930][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:57:46,283][worker-0][INFO] Initialized application
+[2023-03-16 03:57:46,283][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:57:46,284][worker-0][INFO] Initialized CORS
+[2023-03-16 03:57:46,284][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:59:11,852][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:59:12,269][worker-0][INFO] Initialized application
+[2023-03-16 03:59:12,269][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:59:12,269][worker-0][INFO] Initialized CORS
+[2023-03-16 03:59:12,270][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 03:59:40,149][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 03:59:40,501][worker-0][INFO] Initialized application
+[2023-03-16 03:59:40,502][worker-0][INFO] Initialized Seeds
+[2023-03-16 03:59:40,502][worker-0][INFO] Initialized CORS
+[2023-03-16 03:59:40,502][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:01:03,163][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:01:03,529][worker-0][INFO] Initialized application
+[2023-03-16 04:01:03,530][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:01:03,530][worker-0][INFO] Initialized CORS
+[2023-03-16 04:01:03,530][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:08:47,510][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:08:47,895][worker-0][INFO] Initialized application
+[2023-03-16 04:08:47,895][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:08:47,896][worker-0][INFO] Initialized CORS
+[2023-03-16 04:08:47,896][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:15:49,780][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:15:50,155][worker-0][INFO] Initialized application
+[2023-03-16 04:15:50,155][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:15:50,155][worker-0][INFO] Initialized CORS
+[2023-03-16 04:15:50,155][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:17:50,647][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:17:50,889][worker-0][INFO] Initialized application
+[2023-03-16 04:17:50,889][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:17:50,889][worker-0][INFO] Initialized CORS
+[2023-03-16 04:17:50,889][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:29:38,780][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:29:39,046][worker-0][INFO] Initialized application
+[2023-03-16 04:29:39,046][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:29:39,046][worker-0][INFO] Initialized CORS
+[2023-03-16 04:29:39,046][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:30:03,210][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:30:03,517][worker-0][INFO] Initialized application
+[2023-03-16 04:30:03,518][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:30:03,518][worker-0][INFO] Initialized CORS
+[2023-03-16 04:30:03,518][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:32:50,440][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:32:50,688][worker-0][INFO] Initialized application
+[2023-03-16 04:32:50,689][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:32:50,689][worker-0][INFO] Initialized CORS
+[2023-03-16 04:32:50,689][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:33:10,781][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:33:11,013][worker-0][INFO] Initialized application
+[2023-03-16 04:33:11,014][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:33:11,014][worker-0][INFO] Initialized CORS
+[2023-03-16 04:33:11,014][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:38:39,264][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:38:39,500][worker-0][INFO] Initialized application
+[2023-03-16 04:38:39,500][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:38:39,500][worker-0][INFO] Initialized CORS
+[2023-03-16 04:38:39,500][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:40:40,201][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:40:40,441][worker-0][INFO] Initialized application
+[2023-03-16 04:40:40,442][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:40:40,442][worker-0][INFO] Initialized CORS
+[2023-03-16 04:40:40,442][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:41:25,585][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:41:25,821][worker-0][INFO] Initialized application
+[2023-03-16 04:41:25,821][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:41:25,821][worker-0][INFO] Initialized CORS
+[2023-03-16 04:41:25,822][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:41:54,636][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:41:54,856][worker-0][INFO] Initialized application
+[2023-03-16 04:41:54,856][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:41:54,856][worker-0][INFO] Initialized CORS
+[2023-03-16 04:41:54,857][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:42:19,129][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:42:19,370][worker-0][INFO] Initialized application
+[2023-03-16 04:42:19,370][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:42:19,370][worker-0][INFO] Initialized CORS
+[2023-03-16 04:42:19,370][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:45:38,255][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:45:38,491][worker-0][INFO] Initialized application
+[2023-03-16 04:45:38,491][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:45:38,491][worker-0][INFO] Initialized CORS
+[2023-03-16 04:45:38,491][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:47:08,413][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:47:08,658][worker-0][INFO] Initialized application
+[2023-03-16 04:47:08,658][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:47:08,658][worker-0][INFO] Initialized CORS
+[2023-03-16 04:47:08,658][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:48:09,721][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:48:09,964][worker-0][INFO] Initialized application
+[2023-03-16 04:48:09,965][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:48:09,965][worker-0][INFO] Initialized CORS
+[2023-03-16 04:48:09,965][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:50:08,859][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:50:09,107][worker-0][INFO] Initialized application
+[2023-03-16 04:50:09,107][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:50:09,108][worker-0][INFO] Initialized CORS
+[2023-03-16 04:50:09,108][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:51:42,855][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:51:43,090][worker-0][INFO] Initialized application
+[2023-03-16 04:51:43,090][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:51:43,090][worker-0][INFO] Initialized CORS
+[2023-03-16 04:51:43,090][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:52:06,326][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:52:06,551][worker-0][INFO] Initialized application
+[2023-03-16 04:52:06,551][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:52:06,551][worker-0][INFO] Initialized CORS
+[2023-03-16 04:52:06,551][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:53:17,705][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:53:17,948][worker-0][INFO] Initialized application
+[2023-03-16 04:53:17,949][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:53:17,949][worker-0][INFO] Initialized CORS
+[2023-03-16 04:53:17,949][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:57:12,506][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:57:12,741][worker-0][INFO] Initialized application
+[2023-03-16 04:57:12,741][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:57:12,741][worker-0][INFO] Initialized CORS
+[2023-03-16 04:57:12,741][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 04:57:50,536][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 04:57:50,765][worker-0][INFO] Initialized application
+[2023-03-16 04:57:50,765][worker-0][INFO] Initialized Seeds
+[2023-03-16 04:57:50,766][worker-0][INFO] Initialized CORS
+[2023-03-16 04:57:50,766][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:03:14,283][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:03:14,520][worker-0][INFO] Initialized application
+[2023-03-16 05:03:14,521][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:03:14,521][worker-0][INFO] Initialized CORS
+[2023-03-16 05:03:14,521][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:04:25,864][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:04:26,100][worker-0][INFO] Initialized application
+[2023-03-16 05:04:26,100][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:04:26,100][worker-0][INFO] Initialized CORS
+[2023-03-16 05:04:26,100][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:04:44,737][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:04:44,978][worker-0][INFO] Initialized application
+[2023-03-16 05:04:44,978][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:04:44,979][worker-0][INFO] Initialized CORS
+[2023-03-16 05:04:44,979][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:05:18,243][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:05:18,485][worker-0][INFO] Initialized application
+[2023-03-16 05:05:18,485][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:05:18,485][worker-0][INFO] Initialized CORS
+[2023-03-16 05:05:18,485][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:06:13,397][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:06:13,627][worker-0][INFO] Initialized application
+[2023-03-16 05:06:13,627][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:06:13,628][worker-0][INFO] Initialized CORS
+[2023-03-16 05:06:13,628][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:16:24,434][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:16:24,659][worker-0][INFO] Initialized application
+[2023-03-16 05:16:24,659][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:16:24,659][worker-0][INFO] Initialized CORS
+[2023-03-16 05:16:24,659][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:16:46,757][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:16:46,980][worker-0][INFO] Initialized application
+[2023-03-16 05:16:46,981][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:16:46,981][worker-0][INFO] Initialized CORS
+[2023-03-16 05:16:46,981][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:17:14,454][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:17:14,714][worker-0][INFO] Initialized application
+[2023-03-16 05:17:14,715][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:17:14,715][worker-0][INFO] Initialized CORS
+[2023-03-16 05:17:14,715][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:19:18,901][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:19:19,200][worker-0][INFO] Initialized application
+[2023-03-16 05:19:19,200][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:19:19,200][worker-0][INFO] Initialized CORS
+[2023-03-16 05:19:19,200][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:19:57,380][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:19:57,614][worker-0][INFO] Initialized application
+[2023-03-16 05:19:57,614][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:19:57,614][worker-0][INFO] Initialized CORS
+[2023-03-16 05:19:57,615][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:27:05,355][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:27:05,664][worker-0][INFO] Initialized application
+[2023-03-16 05:27:05,664][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:27:05,664][worker-0][INFO] Initialized CORS
+[2023-03-16 05:27:05,664][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:29:21,543][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:29:21,769][worker-0][INFO] Initialized application
+[2023-03-16 05:29:21,769][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:29:21,770][worker-0][INFO] Initialized CORS
+[2023-03-16 05:29:21,770][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:30:17,605][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:30:17,830][worker-0][INFO] Initialized application
+[2023-03-16 05:30:17,830][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:30:17,830][worker-0][INFO] Initialized CORS
+[2023-03-16 05:30:17,830][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:30:30,328][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:30:30,548][worker-0][INFO] Initialized application
+[2023-03-16 05:30:30,548][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:30:30,549][worker-0][INFO] Initialized CORS
+[2023-03-16 05:30:30,549][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:30:56,469][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:30:56,655][worker-0][INFO] Initialized application
+[2023-03-16 05:30:56,655][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:30:56,655][worker-0][INFO] Initialized CORS
+[2023-03-16 05:30:56,655][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:31:33,729][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:31:33,952][worker-0][INFO] Initialized application
+[2023-03-16 05:31:33,952][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:31:33,952][worker-0][INFO] Initialized CORS
+[2023-03-16 05:31:33,952][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:34:31,849][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:34:32,096][worker-0][INFO] Initialized application
+[2023-03-16 05:34:32,097][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:34:32,097][worker-0][INFO] Initialized CORS
+[2023-03-16 05:34:32,097][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:34:55,228][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:34:55,449][worker-0][INFO] Initialized application
+[2023-03-16 05:34:55,450][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:34:55,450][worker-0][INFO] Initialized CORS
+[2023-03-16 05:34:55,450][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 05:36:38,765][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 05:36:39,037][worker-0][INFO] Initialized application
+[2023-03-16 05:36:39,037][worker-0][INFO] Initialized Seeds
+[2023-03-16 05:36:39,038][worker-0][INFO] Initialized CORS
+[2023-03-16 05:36:39,038][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:12:27,927][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:12:28,414][worker-0][INFO] Initialized application
+[2023-03-16 06:12:28,414][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:12:28,414][worker-0][INFO] Initialized CORS
+[2023-03-16 06:12:28,414][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:13:29,308][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:13:29,553][worker-0][INFO] Initialized application
+[2023-03-16 06:13:29,553][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:13:29,553][worker-0][INFO] Initialized CORS
+[2023-03-16 06:13:29,553][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:14:41,167][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:14:41,408][worker-0][INFO] Initialized application
+[2023-03-16 06:14:41,409][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:14:41,409][worker-0][INFO] Initialized CORS
+[2023-03-16 06:14:41,409][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:14:59,781][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:15:00,074][worker-0][INFO] Initialized application
+[2023-03-16 06:15:00,074][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:15:00,074][worker-0][INFO] Initialized CORS
+[2023-03-16 06:15:00,074][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:15:24,863][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:15:25,103][worker-0][INFO] Initialized application
+[2023-03-16 06:15:25,103][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:15:25,104][worker-0][INFO] Initialized CORS
+[2023-03-16 06:15:25,104][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:15:40,690][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:15:40,944][worker-0][INFO] Initialized application
+[2023-03-16 06:15:40,945][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:15:40,945][worker-0][INFO] Initialized CORS
+[2023-03-16 06:15:40,945][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:16:10,575][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:16:10,821][worker-0][INFO] Initialized application
+[2023-03-16 06:16:10,821][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:16:10,821][worker-0][INFO] Initialized CORS
+[2023-03-16 06:16:10,821][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:17:17,220][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:17:17,459][worker-0][INFO] Initialized application
+[2023-03-16 06:17:17,459][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:17:17,459][worker-0][INFO] Initialized CORS
+[2023-03-16 06:17:17,459][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:19:37,807][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:19:38,074][worker-0][INFO] Initialized application
+[2023-03-16 06:19:38,074][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:19:38,075][worker-0][INFO] Initialized CORS
+[2023-03-16 06:19:38,075][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:23:59,904][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:24:00,144][worker-0][INFO] Initialized application
+[2023-03-16 06:24:00,144][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:24:00,145][worker-0][INFO] Initialized CORS
+[2023-03-16 06:24:00,145][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:25:20,196][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:25:20,455][worker-0][INFO] Initialized application
+[2023-03-16 06:25:20,455][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:25:20,455][worker-0][INFO] Initialized CORS
+[2023-03-16 06:25:20,455][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:25:41,252][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:25:41,509][worker-0][INFO] Initialized application
+[2023-03-16 06:25:41,509][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:25:41,509][worker-0][INFO] Initialized CORS
+[2023-03-16 06:25:41,509][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:26:07,668][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:26:07,924][worker-0][INFO] Initialized application
+[2023-03-16 06:26:07,925][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:26:07,925][worker-0][INFO] Initialized CORS
+[2023-03-16 06:26:07,925][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:26:21,439][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:26:21,699][worker-0][INFO] Initialized application
+[2023-03-16 06:26:21,699][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:26:21,699][worker-0][INFO] Initialized CORS
+[2023-03-16 06:26:21,699][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:26:48,208][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:26:48,450][worker-0][INFO] Initialized application
+[2023-03-16 06:26:48,450][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:26:48,451][worker-0][INFO] Initialized CORS
+[2023-03-16 06:26:48,451][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:27:30,371][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:27:30,626][worker-0][INFO] Initialized application
+[2023-03-16 06:27:30,626][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:27:30,626][worker-0][INFO] Initialized CORS
+[2023-03-16 06:27:30,626][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:28:22,685][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:28:22,935][worker-0][INFO] Initialized application
+[2023-03-16 06:28:22,935][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:28:22,935][worker-0][INFO] Initialized CORS
+[2023-03-16 06:28:22,935][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:28:44,739][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:28:44,989][worker-0][INFO] Initialized application
+[2023-03-16 06:28:44,989][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:28:44,989][worker-0][INFO] Initialized CORS
+[2023-03-16 06:28:44,990][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:29:48,760][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:29:49,021][worker-0][INFO] Initialized application
+[2023-03-16 06:29:49,022][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:29:49,022][worker-0][INFO] Initialized CORS
+[2023-03-16 06:29:49,022][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:33:30,578][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:33:30,845][worker-0][INFO] Initialized application
+[2023-03-16 06:33:30,845][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:33:30,845][worker-0][INFO] Initialized CORS
+[2023-03-16 06:33:30,846][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:34:13,399][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:34:13,643][worker-0][INFO] Initialized application
+[2023-03-16 06:34:13,643][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:34:13,643][worker-0][INFO] Initialized CORS
+[2023-03-16 06:34:13,643][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:36:37,478][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:36:37,777][worker-0][INFO] Initialized application
+[2023-03-16 06:36:37,777][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:36:37,777][worker-0][INFO] Initialized CORS
+[2023-03-16 06:36:37,777][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:37:05,438][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:37:05,710][worker-0][INFO] Initialized application
+[2023-03-16 06:37:05,710][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:37:05,710][worker-0][INFO] Initialized CORS
+[2023-03-16 06:37:05,710][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:39:18,497][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:39:18,741][worker-0][INFO] Initialized application
+[2023-03-16 06:39:18,741][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:39:18,741][worker-0][INFO] Initialized CORS
+[2023-03-16 06:39:18,741][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:39:31,594][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:39:31,843][worker-0][INFO] Initialized application
+[2023-03-16 06:39:31,843][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:39:31,843][worker-0][INFO] Initialized CORS
+[2023-03-16 06:39:31,843][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:39:52,207][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:39:52,452][worker-0][INFO] Initialized application
+[2023-03-16 06:39:52,452][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:39:52,452][worker-0][INFO] Initialized CORS
+[2023-03-16 06:39:52,453][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:40:21,822][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:40:22,080][worker-0][INFO] Initialized application
+[2023-03-16 06:40:22,080][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:40:22,080][worker-0][INFO] Initialized CORS
+[2023-03-16 06:40:22,080][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:45:06,006][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:45:06,275][worker-0][INFO] Initialized application
+[2023-03-16 06:45:06,275][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:45:06,276][worker-0][INFO] Initialized CORS
+[2023-03-16 06:45:06,276][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:50:45,734][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:50:45,971][worker-0][INFO] Initialized application
+[2023-03-16 06:50:45,971][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:50:45,971][worker-0][INFO] Initialized CORS
+[2023-03-16 06:50:45,971][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:51:07,748][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:51:07,999][worker-0][INFO] Initialized application
+[2023-03-16 06:51:08,000][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:51:08,000][worker-0][INFO] Initialized CORS
+[2023-03-16 06:51:08,000][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:51:53,467][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:51:53,718][worker-0][INFO] Initialized application
+[2023-03-16 06:51:53,718][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:51:53,718][worker-0][INFO] Initialized CORS
+[2023-03-16 06:51:53,718][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:52:17,708][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:52:17,958][worker-0][INFO] Initialized application
+[2023-03-16 06:52:17,958][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:52:17,959][worker-0][INFO] Initialized CORS
+[2023-03-16 06:52:17,959][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 06:52:28,985][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 06:52:29,192][worker-0][INFO] Initialized application
+[2023-03-16 06:52:29,192][worker-0][INFO] Initialized Seeds
+[2023-03-16 06:52:29,192][worker-0][INFO] Initialized CORS
+[2023-03-16 06:52:29,192][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:09:42,983][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:09:43,251][worker-0][INFO] Initialized application
+[2023-03-16 07:09:43,251][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:09:43,252][worker-0][INFO] Initialized CORS
+[2023-03-16 07:09:43,252][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:10:48,391][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:10:48,635][worker-0][INFO] Initialized application
+[2023-03-16 07:10:48,636][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:10:48,636][worker-0][INFO] Initialized CORS
+[2023-03-16 07:10:48,636][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:12:22,052][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:12:22,314][worker-0][INFO] Initialized application
+[2023-03-16 07:12:22,314][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:12:22,314][worker-0][INFO] Initialized CORS
+[2023-03-16 07:12:22,314][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:14:30,915][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:14:31,187][worker-0][INFO] Initialized application
+[2023-03-16 07:14:31,187][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:14:31,187][worker-0][INFO] Initialized CORS
+[2023-03-16 07:14:31,187][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:29:01,058][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:29:01,328][worker-0][INFO] Initialized application
+[2023-03-16 07:29:01,328][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:29:01,329][worker-0][INFO] Initialized CORS
+[2023-03-16 07:29:01,329][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:32:42,325][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:32:42,585][worker-0][INFO] Initialized application
+[2023-03-16 07:32:42,585][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:32:42,585][worker-0][INFO] Initialized CORS
+[2023-03-16 07:32:42,585][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:34:51,606][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:34:51,849][worker-0][INFO] Initialized application
+[2023-03-16 07:34:51,849][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:34:51,849][worker-0][INFO] Initialized CORS
+[2023-03-16 07:34:51,849][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:35:09,574][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:35:09,811][worker-0][INFO] Initialized application
+[2023-03-16 07:35:09,811][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:35:09,811][worker-0][INFO] Initialized CORS
+[2023-03-16 07:35:09,811][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:37:21,358][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:37:21,619][worker-0][INFO] Initialized application
+[2023-03-16 07:37:21,619][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:37:21,619][worker-0][INFO] Initialized CORS
+[2023-03-16 07:37:21,619][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:38:54,532][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:38:54,777][worker-0][INFO] Initialized application
+[2023-03-16 07:38:54,777][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:38:54,777][worker-0][INFO] Initialized CORS
+[2023-03-16 07:38:54,777][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:41:45,753][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:41:46,030][worker-0][INFO] Initialized application
+[2023-03-16 07:41:46,030][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:41:46,031][worker-0][INFO] Initialized CORS
+[2023-03-16 07:41:46,031][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 07:45:46,446][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 07:45:46,678][worker-0][INFO] Initialized application
+[2023-03-16 07:45:46,678][worker-0][INFO] Initialized Seeds
+[2023-03-16 07:45:46,678][worker-0][INFO] Initialized CORS
+[2023-03-16 07:45:46,678][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 11:58:59,553][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 11:58:59,861][worker-0][INFO] Initialized application
+[2023-03-16 11:58:59,864][worker-0][INFO] Initialized Seeds
+[2023-03-16 11:58:59,864][worker-0][INFO] Initialized CORS
+[2023-03-16 11:58:59,864][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:00:46,862][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:00:47,137][worker-0][INFO] Initialized application
+[2023-03-16 12:00:47,137][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:00:47,137][worker-0][INFO] Initialized CORS
+[2023-03-16 12:00:47,137][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:01:51,788][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:01:52,067][worker-0][INFO] Initialized application
+[2023-03-16 12:01:52,067][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:01:52,067][worker-0][INFO] Initialized CORS
+[2023-03-16 12:01:52,067][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:02:37,434][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:02:37,692][worker-0][INFO] Initialized application
+[2023-03-16 12:02:37,692][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:02:37,692][worker-0][INFO] Initialized CORS
+[2023-03-16 12:02:37,693][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:04:33,355][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:04:33,630][worker-0][INFO] Initialized application
+[2023-03-16 12:04:33,630][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:04:33,630][worker-0][INFO] Initialized CORS
+[2023-03-16 12:04:33,630][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:05:51,575][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:05:51,859][worker-0][INFO] Initialized application
+[2023-03-16 12:05:51,859][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:05:51,859][worker-0][INFO] Initialized CORS
+[2023-03-16 12:05:51,859][worker-0][INFO] App Initialization is finished successfully
+[2023-03-16 12:06:37,350][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-03-16 12:06:37,643][worker-0][INFO] Initialized application
+[2023-03-16 12:06:37,643][worker-0][INFO] Initialized Seeds
+[2023-03-16 12:06:37,643][worker-0][INFO] Initialized CORS
+[2023-03-16 12:06:37,644][worker-0][INFO] App Initialization is finished successfully
+[2023-04-04 17:40:25,395][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-04-04 17:40:25,625][worker-0][INFO] Initialized application
+[2023-04-04 17:40:25,625][worker-0][INFO] Initialized Seeds
+[2023-04-04 17:40:25,625][worker-0][INFO] Initialized CORS
+[2023-04-04 17:40:25,625][worker-0][INFO] App Initialization is finished successfully
+[2023-04-04 22:14:23,409][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-04-04 22:14:24,118][worker-0][INFO] Initialized application
+[2023-04-04 22:14:24,118][worker-0][INFO] Initialized Seeds
+[2023-04-04 22:14:24,118][worker-0][INFO] Initialized CORS
+[2023-04-04 22:14:24,118][worker-0][INFO] App Initialization is finished successfully
+[2023-09-26 11:46:02,348][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-09-26 11:46:02,604][worker-0][INFO] Initialized application
+[2023-09-26 11:46:02,604][worker-0][INFO] Initialized Seeds
+[2023-09-26 11:46:02,604][worker-0][INFO] Initialized CORS
+[2023-09-26 11:46:02,604][worker-0][INFO] App Initialization is finished successfully
+[2023-09-26 11:46:11,971][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-09-26 11:46:12,164][worker-0][INFO] Initialized application
+[2023-09-26 11:46:12,165][worker-0][INFO] Initialized Seeds
+[2023-09-26 11:46:12,165][worker-0][INFO] Initialized CORS
+[2023-09-26 11:46:12,165][worker-0][INFO] App Initialization is finished successfully

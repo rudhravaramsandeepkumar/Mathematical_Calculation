@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" charset="width=device-width, initial-scale=1.0">
+    <title>*MATRIX OPERATIONS* MATH SOLVER</title>
+    <link rel="stylesheet" href="/uncg_math/static/css/packages.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <style>
+        .preloader1-wrapper{
+            position:fixed;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background:#496e8570;
+            z-index:9999;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            }
+
+        .spinner1 {
+          width: 40px;
+          height: 40px;
+          background-color: #fff;
+
+          margin: 100px auto;
+          -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+          animation: sk-rotateplane 1.2s infinite ease-in-out;
+        }
+
+        @-webkit-keyframes sk-rotateplane {
+          0% { -webkit-transform: perspective(120px) }
+          50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+          100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+        }
+
+        @keyframes sk-rotateplane {
+          0% {
+            transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+          } 50% {
+            transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+          } 100% {
+            transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+            -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+          }
+        }
+    </style>
+</head>
+
+<body style="zoom: 95%;">
+     <div class="preloader1-wrapper">
+        <div class="spinner1"></div>
+    </div>
+    <div class="uncg_baackg" style="height: 864px !important;
+">
+        <nav>
+            <a href="/uncg_math">
+                <img src="/uncg_math/static/images/uncg_hrzntl.svg" class="logo">
+            </a>
+            <ul>
+                <li><a href="/uncg_math/sequences">Sequences</a></li>
+                <li><a href="">Complex Numbers</a></li>
+            </ul>
+        </nav>
+        <main class="main">
+            <!--==================== CONTACT ME ====================-->
+            <section class="contact section section1" id="contact">
+                <h2 class="section__title">Matrix Operations</h2>
+                <span class="section__subtitle" style="visibility:hidden;margin-bottom: -9px;">Get in touch</span>
+
+                <div class="contact__container container grid">
+
+                    <form action="" class="contact__form grid">
+
+                        <!-- <div class="contact__content">
+                            <label for="" class="contact__label">Delivery Address</label>
+                            <textarea name="" id="" cols="0" rows="2" class="contact__input"
+                                ></textarea>
+                        </div> -->
+                        <!--                        box-shadow: 0px 0px 4px 1px #80afd1;-->
+                        <label class="contact__label" style="
+                        text-align: center;
+                        margin-bottom: -20px; margin-top: 10px;">Addition or Subtraction or Multiplication or divide
+                            Matrix Expressions</label>
+                        <h3
+                            style="padding: 19px; border-color: #090f2f !important;
+                        margin-top: 2px;
+                        margin-bottom: -22px;border-radius: 3px;font-family: Courier New;font-weight: 100;color: white;">
+                            1).Matrix Expression 1:{1,2;1,1}<--{ Matrix format } <br>
+                                2).Action:+ or - or * or / <--{ Action format }<br>
+                                    3).Matrix Expression 2:{3,1;1,1}]<-- { Matrix format } </h3>
+
+                                        <div class="contact__inputs_6 grid">
+                                            <div class="contact__content" style="width: 295px;">
+                                                <label for="matrix_expression_1_input" class="contact__label">Matrix
+                                                    Expression 1</label>
+                                                <input type="text" id="matrix_expression_1_input"
+                                                    name="matrix_expression_1_input" class="contact__input">
+                                                <p style="color: white;font-size: 0.75rem;"
+                                                    id="lb_matrix_expression_1_input" class="required_">
+                                                </p>
+                                            </div>
+                                            <div class="contact__content" style="width: 127px;">
+                                                <label for="Matrix_Action" class="contact__label">Action</label>
+                                                <input type="text" id="Matrix_Action" name="Matrix_Action"
+                                                    class="contact__input">
+                                                <p style="color: white;font-size: 0.75rem;" id="lb_Matrix_Action"
+                                                    class="required_">
+                                                </p>
+                                            </div>
+
+                                            <div class="contact__content" style="width: 274px;">
+                                                <label for="matrix_expression_2_input" class="contact__label">Matrix
+                                                    Expression 2</label>
+                                                <input type="text" id="matrix_expression_2_input"
+                                                    name="matrix_expression_2_input" class="contact__input">
+                                                <p style="color: white;font-size: 0.75rem;"
+                                                    id="lb_matrix_expression_2_input" class="required_">
+                                                </p>
+                                            </div>
+
+                                        </div>
+
+                                        <button type="button" class="button button--flex" id="Get_arith_or_geo"
+                                            onclick="get_matrix_expression()"
+                                            style="margin-right: 316px;margin-top: -10px;margin-left: 300px;">Get Data
+                                            <i class="uil uil-processor button__icon"></i>
+                                        </button>
+
+
+                                        <label class="contact__label " style="
+                        text-align: center;
+                        margin-bottom: -20px;">MATLAB Function</label>
+                                        <h3
+                                            style="padding: 10px; border-color: #090f2f !important;
+                        margin-top: 2px;
+                        margin-bottom:-27px;border-radius: 3px;font-family: Courier New;font-weight: 100;color: white;">
+                                            1).Format : Zeros->(2,3); One's->(3,2);Eyes->(3)
+                                            <br>
+                                            2).Transpose or Det or Inverse format: {1,2;1,1} **Note::Transpose or Det or Inverse Must Be Square Matrix and Non-Singular**
+                                            <br>
+                                            3).Diagonal & Size & Trace: {3,1;1,1}]<-- { Matrix format }
+
+                                        </h3>
+                                        <div class="contact__inputs_4 grid">
+                                            <div class="contact__content">
+                                                <label for="matrix_matlab_Expression" class="contact__label">Expression</label>
+                                                <!-- <label id="country_ctn" for="country" hidden>{{Country}}</label> -->
+                                                <input type="text" id="matrix_matlab_Expression" name="matrix_matlab_Expression" class="contact__input">
+                                            </div>
+                                        </div>
+
+                                        <label class="contact__label required_12"
+                                            style="text-align: center;margin-top: -15px;" id="lb_matrix_matlab_Expression">MATLAB
+                                            Function</label>
+
+                                        <div class="contact__inputs_8 grid " style="margin-right: -90px;margin-left: -146px;gap: 0.5rem !important;">
+                                            <button type="button" class="button button--flex" id="Zeros_arith"
+                                                onclick="generate_matrix('Zeros')">Zeros
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="One_geo"
+                                                onclick="generate_matrix('Ones')">One's
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="Eyes_geo"
+                                                onclick="generate_matrix('Eyes')">Eyes
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="Transpose_btn"
+                                                onclick="generate_matrix('Transpose')">Transpose
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="Det_btn"
+                                                onclick="generate_matrix('Det')">Det
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="Inverse_btn"
+                                                onclick="generate_matrix('Inverse')">Inverse
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="diagonal_btn"
+                                                onclick="generate_matrix('Diagonal')">Diagonal
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="Size_btn"
+                                                onclick="generate_matrix('Size')">Size
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                            <button type="button" class="button button--flex" id="trace_btn"
+                                                onclick="generate_matrix('Trace')">Trace
+                                                <i class="uil uil-processor button__icon"></i></button>
+                                        </div>
+
+
+
+                                        <!--==================== HEADER ====================-->
+
+<!--                                        <label class="contact__label " style="text-align: center;margin-bottom: -20px;">Transpose or Det Or Inverse</label>-->
+<!--                                        <h3-->
+<!--                                            style="padding: 10px; border-color: #090f2f !important;-->
+<!--                        margin-left: 33px;margin-right: 50px;margin-top: 2px;-->
+<!--                        margin-bottom:-27px;border-radius: 3px;font-family: Courier New;font-weight: 100;color: white;">-->
+<!--                                            1).Transpose or Det or Inverse format: {1,2;1,1}-->
+<!--                                            <br>-->
+<!--                                            ***Note::Must Be Square Matrix and Non-Singular**-->
+<!--                                        </h3>-->
+<!--                                        <div class="contact__inputs_4 grid">-->
+<!--                                            <div class="contact__content">-->
+<!--                                                <label for="a1" class="contact__label">Expression</label>-->
+<!--                                                &lt;!&ndash; <label id="country_ctn" for="country" hidden>{{Country}}</label> &ndash;&gt;-->
+<!--                                                <input type="text" id="Transpose_Det_Inverse_id" name="Transpose_Det_Inverse_id" class="contact__input">-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+
+<!--                                        <label class="contact__label required_12"-->
+<!--                                            style="text-align: center;margin-top: -15px;" id="Gn_Transpose_Det_Inverse_id">Transpose and det and inverse</label>-->
+
+<!--                                        <div class="contact__inputs_6 grid"-->
+<!--                                            style="margin-left: 170px;margin-right: 162px;">-->
+<!--                                            <button type="button" class="button button&#45;&#45;flex" id="Transpose_btn"-->
+<!--                                                onclick="Generate_sequence('Arithmetic Sequence')">Transpose-->
+<!--                                                <i class="uil uil-processor button__icon"></i></button>-->
+<!--                                            <button type="button" class="button button&#45;&#45;flex" id="Det_btn"-->
+<!--                                                onclick="Generate_sequence('Geometric Sequence')">Det-->
+<!--                                                <i class="uil uil-processor button__icon"></i></button>-->
+<!--                                            <button type="button" class="button button&#45;&#45;flex" id="Inverse_btn"-->
+<!--                                                onclick="Generate_sequence('Geometric Sequence')">Inverse-->
+<!--                                                <i class="uil uil-processor button__icon"></i></button>-->
+<!--                                        </div>-->
+
+                                        <div>
+
+                                        </div>
+
+
+
+                    </form>
+                    <div class="contact__information-tab-main" style="width: 440px;">
+                        <div class="contact__information-tab" style="margin-top: 50px;">
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> Action Status:
+                                    </h3>
+<!--                                    <span class="contact__title" id="add_sub_div_mut_result">NA.</span>-->
+                                    <h3 class=" contact__subtitle" id="action_statu_result" style="max-width: 275px;overflow-wrap: break-word;">Na.</h3>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> [ + or - or * or / ] Result's:
+                                    </h3>
+<!--                                    <span class="contact__title" id="add_sub_div_mut_result">NA.</span>-->
+                                    <h3 class=" contact__subtitle" id="add_sub_div_mut_result" style="max-width: 275px;overflow-wrap: break-word;">Na.</h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="contact__information-tab" style="margin-top: 60px;">
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> Action Status:
+                                    </h3>
+<!--                                    <span class="contact__title" id="matlab_function_Action_Status_result">NA.</span>-->
+                                    <h3 class=" contact__subtitle" id="matlab_function_Action_Status_result" style="max-width: 275px;overflow-wrap: break-word;">Na.</h3>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> Matlab Function Result's:
+                                    </h3>
+<!--                                    <span class="contact__title" id="matlab_function_result">NA.</span>-->
+                                    <h3 class=" contact__subtitle" id="matlab_function_result" style="max-width: 350px;overflow-wrap: break-word;">Na.</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </main>
+    </div>
+
+
+    <script src="/fuel_quote/static/js/home/swiper-bundle.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+
+      <script>
+        $(window).on('load', function () {
+            $('.preloader1-wrapper').fadeOut();
+<!--            $('.preloader1-wrapper').fadeIn();-->
+        });
+    </script>
+
+    <script>
+        function get_matrix_expression() {
+            $('.preloader1-wrapper').fadeIn();
+            document.getElementById("add_sub_div_mut_result").innerHTML = "NA.";
+            document.getElementById("matlab_function_result").innerHTML = "NA.";
+            document.getElementById("matlab_function_Action_Status_result").innerHTML = "NA.";
+            document.getElementById("action_statu_result").innerHTML = "NA.";
+
+            const matrix_expression_1_input = document.getElementById("matrix_expression_1_input").value
+            const Matrix_Action = document.getElementById("Matrix_Action").value
+            const matrix_expression_2_input = document.getElementById("matrix_expression_2_input").value
+
+            if (matrix_expression_1_input == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_matrix_expression_1_input").innerHTML = "Matrix expression 1 is required"
+                document.getElementById("lb_matrix_expression_1_input").className = '';
+
+                return false;
+            }
+            else {
+                document.getElementById("lb_matrix_expression_1_input").className = 'required_';
+            }
+            if (Matrix_Action == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_Matrix_Action").innerHTML = "Action is required"
+                document.getElementById("lb_Matrix_Action").className = '';
+
+                return false;
+            }
+            else if (Matrix_Action != "+" && Matrix_Action != "-" && Matrix_Action != "*" && Matrix_Action != "/") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_Matrix_Action").innerHTML = "only +,-,*,/ are valid actions"
+                document.getElementById("lb_Matrix_Action").className = '';
+
+                return false;
+            }
+            else {
+                document.getElementById("lb_Matrix_Action").className = 'required_';
+            }
+            if (matrix_expression_2_input == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_matrix_expression_2_input").innerHTML = "Matrix expression 2 is required"
+                document.getElementById("lb_matrix_expression_2_input").className = '';
+                return false;
+            }
+            else {
+                document.getElementById("lb_matrix_expression_2_input").className = 'required_';
+            }
+
+            let details_ = { "matrix_expression_1_input": matrix_expression_1_input, "Matrix_Action": Matrix_Action, "matrix_expression_2_input": matrix_expression_2_input }
+            $.ajax({
+                url: '/uncg_math/matrix_operation',
+                data: JSON.stringify(details_),
+                type: 'POST',
+                contentType: "application/json",
+                dataType: 'json',
+                success: function (data2) {
+                   $('.preloader1-wrapper').fadeOut();
+                   console.log(data2['result_'])
+                   document.getElementById("add_sub_div_mut_result").innerHTML = data2['result_'];
+                   document.getElementById("action_statu_result").innerHTML = data2['status'];
+                   document.getElementById("matlab_function_result").innerHTML = "NA.";
+                   document.getElementById("matlab_function_Action_Status_result").innerHTML = "NA.";
+                   return true;
+                },
+                error: function (data2) {
+                    console.log(data2);
+                    $('.preloader1-wrapper').fadeOut();
+                    return false;
+                }
+            });
+        }
+    </script>
+
+    <script>
+        function generate_matrix(type_) {
+            $('.preloader1-wrapper').fadeIn();
+            document.getElementById("add_sub_div_mut_result").innerHTML = "NA.";
+            document.getElementById("matlab_function_result").innerHTML = "NA.";
+            document.getElementById("matlab_function_Action_Status_result").innerHTML = "NA.";
+            document.getElementById("action_statu_result").innerHTML = "NA.";
+            var matrix_matlab_Expression = document.getElementById("matrix_matlab_Expression").value
+
+            if (matrix_matlab_Expression == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_matrix_matlab_Expression").className = 'contact__label';
+                document.getElementById("lb_matrix_matlab_Expression").innerHTML = "Expression Is Required"
+                return false;
+            }
+            else {
+                document.getElementById("lb_matrix_matlab_Expression").className = 'required_12';
+            }
+
+            let details_ = { "matrix_matlab_Expression": matrix_matlab_Expression, "type": type_ }
+            $.ajax({
+                url: '/uncg_math/matrix_matlab_operation',
+                data: JSON.stringify(details_),
+                type: 'POST',
+                contentType: "application/json",
+                dataType: 'json',
+                success: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+                    document.getElementById("add_sub_div_mut_result").innerHTML = "Na.";
+                   document.getElementById("action_statu_result").innerHTML = "Na.";
+                   document.getElementById("matlab_function_result").innerHTML = data2['result_'];
+                   document.getElementById("matlab_function_Action_Status_result").innerHTML = data2['status'];
+                    return true;
+                },
+                error: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+                    console.log(data2);
+                    return false;
+                }
+            });
+        }
+    </script>
+
+</body>
+
+</html>

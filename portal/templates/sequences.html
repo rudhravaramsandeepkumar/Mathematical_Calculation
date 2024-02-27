@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" charset="width=device-width, initial-scale=1.0">
+    <title>*SEQUENCES* MATH SOLVER</title>
+    <link rel="stylesheet" href="/uncg_math/static/css/packages.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <style>
+        .preloader1-wrapper{
+            position:fixed;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background:#496e8570;
+            z-index:9999;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            }
+
+        .spinner1 {
+          width: 40px;
+          height: 40px;
+          background-color: #fff;
+
+          margin: 100px auto;
+          -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+          animation: sk-rotateplane 1.2s infinite ease-in-out;
+        }
+
+        @-webkit-keyframes sk-rotateplane {
+          0% { -webkit-transform: perspective(120px) }
+          50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+          100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+        }
+
+        @keyframes sk-rotateplane {
+          0% {
+            transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+          } 50% {
+            transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+          } 100% {
+            transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+            -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+          }
+        }
+    </style>
+</head>
+
+<body style="zoom: 95%;">
+   <div class="preloader1-wrapper">
+        <div class="spinner1"></div>
+    </div>
+    <div class="uncg_baackg">
+        <nav>
+            <a href="/uncg_math">
+            <img src="/uncg_math/static/images/uncg_hrzntl.svg" class="logo">
+            </a>
+            <ul>
+
+                <li><a href="/uncg_math/matrix_operation">Matrix Operation</a></li>
+                <li><a href="">Complex Numbers</a></li>
+            </ul>
+        </nav>
+        <main class="main">
+            <!--==================== CONTACT ME ====================-->
+            <section class="contact section section1" id="contact">
+                <h2 class="section__title">Sequences</h2>
+                <span class="section__subtitle" style="visibility:hidden;margin-bottom: -9px;">Get in touch</span>
+
+                <div class="contact__container container grid">
+
+                    <form action="" class="contact__form grid">
+
+                        <!-- <div class="contact__content">
+                            <label for="" class="contact__label">Delivery Address</label>
+                            <textarea name="" id="" cols="0" rows="2" class="contact__input"
+                                ></textarea>
+                        </div> -->
+<!--                        box-shadow: 0px 0px 4px 1px #80afd1;-->
+                        <label class="contact__label" style="
+                        text-align: center;
+                        margin-bottom: -20px;">Arithmetic Or Geometric Sequence</label>
+                        <h3 style="padding: 19px; border-color: #090f2f !important;
+                        margin-left: 33px;margin-right: 50px;margin-top: 2px;
+                        margin-bottom: -22px;border-radius: 3px;font-family: Courier New;font-weight: 100;color: white;">
+                            1).Sequence: 1,2,3,4,... <-- { Sequence format }
+                            <br>
+                            2).(n)Th (example) :the term number you want to find
+                        </h3>
+
+                        <div class="contact__inputs grid">
+                            <div class="contact__content" style="width: 545px;">
+
+                                <label for="arith_or_geo_input" class="contact__label">Sequence</label>
+
+                                <input type="text" id="arith_or_geo_input" name="arith_or_geo_input" class="contact__input">
+                                <p style="color: white;font-size: 0.75rem;" id="lb_arith_or_geo_input" class="required_">
+                                    Address 2 Required</p>
+
+
+                            </div>
+                            <div class="contact__content" style="width: 180px;">
+                                <label for="arith_or_geo_input_s_n" class="contact__label">(n)Th</label>
+                                <input type="text" id="arith_or_geo_input_s_n" name="arith_or_geo_input_s_n" class="contact__input">
+                                <p style="color: white;font-size: 0.75rem;" id="lb_arith_or_geo_input_s_n" class="required_">
+                                    Address 2 Required</p>
+                            </div>
+
+                        </div>
+                         <button type="button" class="button button--flex" id="Get_arith_or_geo" onclick="Get_Data()"
+                                style="margin-right: 316px;margin-top: -30px;margin-left: 300px;">Get Data
+                                <i class="uil uil-processor button__icon"></i>
+                            </button>
+
+
+                        <label class="contact__label " style="
+                        text-align: center;
+                        margin-bottom: -20px;">Generate Arithmetic Or Geometric Sequence</label>
+                        <h3 style="padding: 10px; border-color: #090f2f !important;
+                        margin-left: 33px;margin-right: 50px;margin-top: 2px;
+                        margin-bottom:-27px;border-radius: 3px;font-family: Courier New;font-weight: 100;color: white;">
+                            1).a1: first term of the sequence
+                            <br>
+                            2).n:the term number you want to find
+                            <br>
+                            3).d or r:common difference/ratio between consecutive terms
+                            <br>
+                            4).A(n):nth term of the sequence
+                            <br>
+                            5).S(n):Sum of n numbers in sequence
+                        </h3>
+                        <div class="contact__inputs_3 grid">
+                            <div class="contact__content">
+                                <label for="a1" class="contact__label">a1</label>
+                                <!-- <label id="country_ctn" for="country" hidden>{{Country}}</label> -->
+                                <input type="text" id="a1" name="a1" class="contact__input">
+                            </div>
+                            <div class="contact__content">
+                                <label for="n" class="contact__label">n</label>
+                                <!-- <label id="state_ctn" for="state-code" hidden>{{state}}</label> -->
+                                <!-- <input type="text" class="contact__input"> -->
+                                <input type="text" id="n" name="n" class="contact__input">
+                            </div>
+
+                            <div class="contact__content">
+                                <label for="d_or_r" class="contact__label">d or r</label>
+                                <input type="text" id="d_or_r" name="d_or_r" class="contact__input">
+
+                            </div>
+                            <div class="contact__content">
+                                <label for="a_n_" class="contact__label">A(n)</label>
+                                <input type="text" id="a_n_" name="a_n_" class="contact__input">
+
+                            </div>
+                            <div class="contact__content">
+                                <label for="s_n_" class="contact__label">S(n)</label>
+                                <input type="text" id="s_n_" name="s_n_" class="contact__input">
+
+                            </div>
+                        </div>
+
+                        <label class="contact__label required_12" style="
+                        text-align: center;
+                        margin-top: -15px;
+                        " id="Gn_lb_Ar">Generate Arithmetic Or Geometric Sequence</label>
+
+                        <div class="contact__inputs grid" style="margin-left: 170px;margin-right: 162px;">
+                            <button type="button" class="button button--flex" id="Generate_arith"
+                                onclick="Generate_sequence('Arithmetic Sequence')" >Arithmetic Sequence
+                                <i class="uil uil-processor button__icon"></i></button>
+                            <button type="button" class="button button--flex" id="Generate_geo"
+                                onclick="Generate_sequence('Geometric Sequence')" >Geometric Sequence
+                                <i class="uil uil-processor button__icon"></i></button>
+                        </div>
+                        <div>
+
+                        </div>
+
+                    </form>
+                    <div class="contact__information-tab-main">
+                        <div class="contact__information-tab">
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> First Number:
+                                    </h3>
+                                    <span class="contact__title" id="first_sequence_is"></span>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle"> Type Of Sequence:
+                                    </h3>
+                                    <span class="contact__title" id="tyep_sequence_is"></span>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-usd-circle contact__icon"></i>
+                                <div>
+                                    <h3 class=" contact__subtitle">The Sequence Is :</h3>
+                                    <h3 class=" contact__subtitle" id="is_sequence" style="max-width: 275px;overflow-wrap: break-word;"></h3>
+<!--                                    <span class="contact__title" id="is_sequence"></span>-->
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-usd-circle contact__icon"></i>
+                                <div>
+                                    <h3 class=" contact__subtitle">Difference or Ratio:</h3>
+                                    <span class="contact__title" id="diff_or_ratio"></span>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-usd-circle contact__icon"></i>
+                                <div>
+                                    <h3 class=" contact__subtitle">The A(n)Th Number Is:</h3>
+                                    <span class="contact__title" id="fifth_number"></span>
+                                </div>
+                            </div>
+
+                            <div class="contact__information">
+                                <i class="uil uil-x contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle">The Sum Of The S(n) Numbers Is :
+                                    </h3>
+                                    <span class="contact__title" id="sum_of_first_five"></span>
+                                </div>
+                            </div>
+
+
+
+                            <!--                        <div class="contact__information">-->
+                            <!--                            <i class="uil uil-receipt contact__icon"></i>-->
+                            <!--                            <div>-->
+                            <!--                                <h3 class="contact__subtitle">Tax</h3>-->
+                            <!--                                <span class="contact__title">Tax :@14%</span>-->
+                            <!--                            </div>-->
+                            <!--                        </div>-->
+                            <!-- <div class="contact__information">
+                                <i class="uil uil-bill contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle">Suggested Price/Gallon</h3>
+                                    <span class="contact__title" id="grand_total">00.00</span>
+                                </div>
+                            </div> -->
+                            <!-- <div class="contact__information">
+                                <i class="uil uil-transaction contact__icon"></i>
+                                <div>
+                                    <h3 class="contact__subtitle">Total Amount Due</h3>
+                                    <span class="contact__title" id="Total_Amount_Due">00.00</span>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+
+    <script src="/fuel_quote/static/js/home/swiper-bundle.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+
+   <script>
+       $(window).on('load', function () {
+            $('.preloader1-wrapper').fadeOut();
+        });
+   </script>
+
+
+    <script>
+        function Get_Data() {
+            $('.preloader1-wrapper').fadeIn();
+            document.getElementById("is_sequence").innerHTML = "NA.";
+            document.getElementById("diff_or_ratio").innerHTML = "NA.";
+            document.getElementById("fifth_number").innerHTML = "NA.";
+            document.getElementById("sum_of_first_five").innerHTML = "NA.";
+            document.getElementById("tyep_sequence_is").innerHTML = "NA.";
+            var ARITH_OR_GEO_INPUT = document.getElementById("arith_or_geo_input").value
+            const myArray = ARITH_OR_GEO_INPUT.split(",");
+            const arith_or_geo_input_s_n = document.getElementById("arith_or_geo_input_s_n").value;
+
+            const lastsecondValue = myArray[myArray.length - 1];
+            var cur_gst = "14%"
+            if (ARITH_OR_GEO_INPUT == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input_s_n").innerHTML = "Please enter the sequence"
+                document.getElementById("lb_arith_or_geo_input").className = '';
+                return false;
+            }
+            else {
+                document.getElementById("lb_arith_or_geo_input").className = 'required_';
+            }
+            if (arith_or_geo_input_s_n == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input_s_n").innerHTML = "Please enter the (n)"
+                document.getElementById("lb_arith_or_geo_input_s_n").className = '';
+                return false;
+            }
+            else {
+                document.getElementById("lb_arith_or_geo_input_s_n").className = 'required_';
+            }
+            if ( parseInt(arith_or_geo_input_s_n)) {
+                document.getElementById("lb_arith_or_geo_input_s_n").className = 'required_';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input_s_n").className = '';
+                document.getElementById("lb_arith_or_geo_input_s_n").innerHTML = "The (n) Value Must be integer"
+                return false;
+
+            }
+            if (typeof lastsecondValue === "string" && lastsecondValue.includes(".")) {
+                document.getElementById("lb_arith_or_geo_input").className = 'required_';
+
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input").className = '';
+                document.getElementById("lb_arith_or_geo_input").innerHTML = "Invalid sequence"
+                return false;
+            }
+            myArray.splice(myArray.length - 1, 1);
+            const resultArray = myArray.map(value => {
+                if (parseInt(value)) {
+                    return parseInt(value);
+                }
+                else if (parseFloat(value)) {
+                    return parseFloat(value);
+                }
+                else {
+                    return value;
+                }
+            });
+            const containsString = resultArray.some(element => typeof element === "string");
+            if (containsString) {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input").className = '';
+                document.getElementById("lb_arith_or_geo_input").innerHTML = "All values must be integers"
+                return false;
+
+            }
+            else {
+                document.getElementById("lb_arith_or_geo_input").className = 'required_';
+            }
+<!--            myArray.pop();-->
+            if (myArray.length < 3) {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("lb_arith_or_geo_input").className = '';
+                document.getElementById("lb_arith_or_geo_input").innerHTML = "The Sequence has less than 3 elements."
+                return false;
+            }
+            else {
+                document.getElementById("lb_arith_or_geo_input").className = 'required_';
+            }
+            console.log(myArray)
+            let details_ = { "arith_or_geo_input": myArray, "type": 'a_or_g_output', "a_n_term": parseInt(arith_or_geo_input_s_n) }
+            $.ajax({
+                url: '/uncg_math/sequences',
+                data: JSON.stringify(details_),
+                type: 'POST',
+                contentType: "application/json",
+                dataType: 'json',
+                success: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+
+                    document.getElementById("first_sequence_is").innerHTML = data2['first_term'];
+                    document.getElementById("is_sequence").innerHTML = data2['sequence'];
+                    document.getElementById("diff_or_ratio").innerHTML = data2['common_difference'];
+                    document.getElementById("fifth_number").innerHTML = data2['nth_number'];
+                    document.getElementById("sum_of_first_five").innerHTML = data2['sum_of_nth_number'];
+                    document.getElementById("tyep_sequence_is").innerHTML = data2['type'];
+
+                    return true;
+                },
+                error: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+                    console.log(data2);
+                    return false;
+                }
+            });
+        }
+    </script>
+
+    <script>
+        function Generate_sequence(type_) {
+            $('.preloader1-wrapper').fadeIn();
+            document.getElementById("is_sequence").innerHTML = "NA.";
+            document.getElementById("diff_or_ratio").innerHTML = "NA.";
+            document.getElementById("fifth_number").innerHTML = "NA.";
+            document.getElementById("sum_of_first_five").innerHTML = "NA.";
+            document.getElementById("tyep_sequence_is").innerHTML = "NA.";
+            var a1 = document.getElementById("a1").value
+            var n = document.getElementById("n").value
+            var d_or_r = document.getElementById("d_or_r").value
+            var a_n_ = document.getElementById("a_n_").value
+            var s_n_=document.getElementById("s_n_").value
+            let myList = [a1,n,d_or_r,a_n_];
+            let filteredList = myList.filter(function(value) {
+            return value !== "";
+            });
+            if (a1 == "" && n== "" && d_or_r== "" && a_n_ == "") {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "Fill any 3 of first 4 boxes"
+                return false;
+            }
+            else {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            if (filteredList.length < 3)
+            {
+               $('.preloader1-wrapper').fadeOut();
+               document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "Fill any 3 of first 4 boxes"
+                return false;
+            }
+            else {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+
+            if ( a1!= "" && parseInt(a1)) {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else if ( a1== "") {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "The a1 Value Must be integer"
+                return false;
+
+            }
+            if ( n!= "" && parseInt(n)) {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else if ( n== "") {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "The n Value Must be integer"
+                return false;
+
+            }
+            if ( d_or_r!= "" && parseInt(d_or_r)) {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else if ( d_or_r== "") {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "The d or r Value Must be integer"
+                return false;
+
+            }
+            if ( a_n_!= "" && parseInt(a_n_)) {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else if ( a_n_== "") {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "The A(n) Value Must be integer"
+                return false;
+
+            }
+             if ( s_n_!= "" && parseInt(s_n_)) {
+                document.getElementById("Gn_lb_Ar").className = 'required_12';
+            }
+            else {
+                $('.preloader1-wrapper').fadeOut();
+                document.getElementById("Gn_lb_Ar").className = 'contact__label';
+                document.getElementById("Gn_lb_Ar").innerHTML = "The S(n) Value Must be integer and not null"
+                return false;
+
+            }
+
+            let details_ = { "a1":parseInt(a1),"n": parseInt(n),"d_or_r": parseInt(d_or_r),"a_n_": parseInt(a_n_),"s_n_": parseInt(s_n_),"type": type_ }
+            $.ajax({
+                url: '/uncg_math/sequences',
+                data: JSON.stringify(details_),
+                type: 'POST',
+                contentType: "application/json",
+                dataType: 'json',
+                success: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+                    document.getElementById("is_sequence").innerHTML = data2['sequence'];
+                    document.getElementById("diff_or_ratio").innerHTML = data2['common_difference'];
+                    document.getElementById("fifth_number").innerHTML = data2['nth_number'];
+                    document.getElementById("sum_of_first_five").innerHTML = data2['sum_of_nth_number'];
+                    document.getElementById("tyep_sequence_is").innerHTML = data2['type'];
+                    return true;
+                },
+                error: function (data2) {
+                    $('.preloader1-wrapper').fadeOut();
+                    console.log(data2);
+                    return false;
+                }
+            });
+        }
+    </script>
+
+</body>
+
+</html>
